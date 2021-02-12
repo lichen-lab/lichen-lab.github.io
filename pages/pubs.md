@@ -18,9 +18,17 @@ description: Li Chen's publications
 
 **Key**: &sect; indicates (co-)corresponding author; &dagger; indicates advisee; ^indicates (co-) first author	
 
+#### 2021
+
+Mishuk AU, **Chen L**, Li C, Huo N, Hansen RA, Harris I, Kiptanui Z, Qian J (2021) Patient factors associated with oral generic olanzapine initiation and substitution among Medicaid beneficiaries: a new user cohort study. [Current Medical Research and Opinion](https://www.tandfonline.com/doi/abs/10.1080/03007995.2021.1882413?journalCode=icmo20)
+<!-- * 41 * -->
+
+Brothwell J, Griesenauer B, **Chen L** and Spinola SM (2021) Interactions of the Skin Pathogen Haemophilus ducreyi With the Human Host [Frontiers in Immunology](https://doi.org/10.3389/fimmu.2020.615402)
+<!-- * 40 * -->
+
 #### 2020
 
-Mishuk AU, **Chen L**, Gaillard P, Westrick S, Hansen RA, Qian J (2020) National Trends in Prescription Proton Pump Inhibitors (PPI) Use and Expenditure in the U.S. in 2002-2017 [Journal of the American Pharmacists Association](https://www.japha.org/article/S1544-3191(20)30476-3/fulltext)
+Mishuk AU, **Chen L**, Gaillard P, Westrick S, Hansen RA, Qian J (2020) National Trends in Prescription Proton Pump Inhibitors (PPI) Use and Expenditure in the U.S. in 2002-2017 [Journal of the American Pharmacists Association](https://www.sciencedirect.com/science/article/pii/S1544319120304763)
 <!-- * 39 * -->
 
 **Chen L**, Li C, Huo N, Mishuk AU, Hansen RA, Harris I, Kiptanui Z, Qian J (2020) Oral Generic Tacrolimus Initiation and Substitution in The Medicaid Population: A New User Cohort Study [Current Medical Research & Opinion](https://www.tandfonline.com/doi/full/10.1080/03007995.2020.1793750)
