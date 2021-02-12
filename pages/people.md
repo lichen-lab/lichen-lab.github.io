@@ -25,19 +25,6 @@ Li Chen, Principal Investigator
 
 ###  PhD students 
 
-
-#<div class="container">
-#    <div class="row-fluid">
- #       <div class="span2">
-  #      <a href="../assets/pics/Chao.jpg">
-   #         <img src="../assets/pics/Chao.jpg" height="200" width="200" title="Chao Li" alt="Chao Li"/>
-    #    </a>
-     #   </div>
-    #</div>
-#</div>
-
-#Chao Li, PhD candidate in Pharmaceutical Science, joint with [Dr. Jingjing Qian](http://www.auburn.edu/academic/pharmacy/directory/jingjing-qian.html)
-
 Fengdi Zhao, PhD student in Biostatistics
 
 <br/>
