@@ -20,7 +20,7 @@ description: I am a tenure-track Assistant Professor of Biostatistics at Indiana
         <div class="span5">
             Li Chen<br/>
             <a href="https://medicine.iu.edu/faculty/47520/chen-li">Assistant Professor of Biostatistics</a><br/>
-		<a href="https://medicine.iu.edu/biostatistics/">Deparment of Biostatistics and Health Data Science</a><br/>
+		<a href="https://medicine.iu.edu/biostatistics/">Department of Biostatistics and Health Data Science</a><br/>
             <a href="https://medicine.iu.edu/research/centers-institutes/computational-biology-bioinformatics/">Center for Computational Biology and Bioinformatics</a><br/>
 		 <a href="https://medicine.iu.edu/">Indiana University School of Medicine</a><br/>
  410 W. 10th Street, HS 5025 <br/>
