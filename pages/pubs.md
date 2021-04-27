@@ -20,6 +20,16 @@ description: Li Chen's publications
 
 #### 2021
 
+Wang Y<sup>&dagger;</sup>, Jiang Y, Yao B, Huang K, Liu Y, Wang Y, Qin X, Saykin AJ, **Chen L<sup>&sect;</sup>** (2021) WEVar: a novel statistical learning framework for predicting noncoding regulatory variants [Briefings in Bioinformatics](Accepted)
+[![MDeep software](icons16/html-icon.png)](https://github.com/lichen-lab/WEVar)
+<!-- * 44 * -->
+
+Li C, Ngorsuraches S, Chou C, **Chen L**, Qian J (2021) Risk Factors of Fluoropyrimidine Induced Cardiotoxicity Among Cancer Patients: A Systematic Review and Meta-analysis. [Critical Reviews in Oncology/Hematology](Accepted)
+<!-- * 43 * -->
+
+Kuehner JN, Chen J, Bruggeman EC, Wang F, Li Y, Xu C, McEachin ZT, Li Z, **Chen L**, Hales CM, Wen Z, Yang J, Yao B (2021) 5-hydroxymethylcytosine is dynamically regulated during forebrain organoid development and aberrantly altered in Alzheimer’s disease. [Cell Reports](https://www.cell.com/cell-reports/pdfExtended/S2211-1247(21)00358-2)
+<!-- * 42 * -->
+
 Mishuk AU, **Chen L**, Li C, Huo N, Hansen RA, Harris I, Kiptanui Z, Qian J (2021) Patient factors associated with oral generic olanzapine initiation and substitution among Medicaid beneficiaries: a new user cohort study. [Current Medical Research and Opinion](https://www.tandfonline.com/doi/abs/10.1080/03007995.2021.1882413?journalCode=icmo20)
 <!-- * 41 * -->
 
