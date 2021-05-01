@@ -38,9 +38,11 @@ Kuehner JN, Chen J, Bruggeman EC, Wang F, Li Y, Xu C, McEachin ZT, Li Z, **Chen 
 <!-- * 42 * -->
 
 Mishuk AU, **Chen L**, Li C, Huo N, Hansen RA, Harris I, Kiptanui Z, Qian J (2021) Patient factors associated with oral generic olanzapine initiation and substitution among Medicaid beneficiaries: a new user cohort study. [Current Medical Research and Opinion](https://www.tandfonline.com/doi/abs/10.1080/03007995.2021.1882413?journalCode=icmo20)
+ [![PubMed](icons16/pubmed-icon.png)](https://pubmed.ncbi.nlm.nih.gov/33507825/)
 <!-- * 41 * -->
 
 Brothwell J, Griesenauer B, **Chen L** and Spinola SM (2021) Interactions of the Skin Pathogen Haemophilus ducreyi With the Human Host [Frontiers in Immunology](https://doi.org/10.3389/fimmu.2020.615402)
+ [![PubMed](icons16/pubmed-icon.png)](https://pubmed.ncbi.nlm.nih.gov/33613541/)
 <!-- * 40 * -->
 
 Mishuk AU, **Chen L**, Gaillard P, Westrick S, Hansen RA, Qian J (2021) National Trends in Prescription Proton Pump Inhibitors (PPI) Use and Expenditure in the U.S. in 2002-2017 [Journal of the American Pharmacists Association](https://www.sciencedirect.com/science/article/pii/S1544319120304763)
@@ -49,43 +51,53 @@ Mishuk AU, **Chen L**, Gaillard P, Westrick S, Hansen RA, Qian J (2021) National
 #### 2020
 
 **Chen L**, Li C, Huo N, Mishuk AU, Hansen RA, Harris I, Kiptanui Z, Qian J (2020) Oral Generic Tacrolimus Initiation and Substitution in The Medicaid Population: A New User Cohort Study [Current Medical Research & Opinion](https://www.tandfonline.com/doi/full/10.1080/03007995.2020.1793750)
+ [![PubMed](icons16/pubmed-icon.png)](https://pubmed.ncbi.nlm.nih.gov/32644886/)
 <!-- * 38 * -->
 
 Mei W, Jiang Z, Chen Y, **Chen L**, Sancar A, Jiang Y (2020) Genome-wide circadian rhythm detection methods: systematic evaluations and practical guidelines [Briefings in Bioinformatics](https://academic.oup.com/bib/article-abstract/doi/10.1093/bib/bbaa135/5872170?redirectedFrom=fulltext)
+ [![PubMed](icons16/pubmed-icon.png)](https://pubmed.ncbi.nlm.nih.gov/32672832/)
 <!-- * 37 * -->
 
 Mitra AK, Kumar H, Ramakrishnan V, **Chen L**, Kumar S, Rajkumar SV, Van Ness B (2020) In vitro and ex vivo gene expression profiling reveals differential kinetic response of HSPs and UPR genes are associated with PI-resistance in multiple myeloma [Blood Cancer Journal](https://www.nature.com/articles/s41408-020-00344-9)
+ [![PubMed](icons16/pubmed-icon.png)](https://pubmed.ncbi.nlm.nih.gov/32724061/)
 <!-- * 36 * -->
 
 Li C, **Chen L**, Huo N, Mishuk AU, Hansen RA, Harris I, Kiptanui Z, Wang Z, Qian J (2020) Generic escitalopram initiation and substitution among Medicare beneficiaries: A new user cohort study [Plos One](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0232226)
+ [![PubMed](icons16/pubmed-icon.png)](https://pubmed.ncbi.nlm.nih.gov/32353006/)
 <!-- * 35 * -->
 
 Wang Y<sup>&dagger;</sup>, Bhattacharya T, Jiang Y, Qin X, Wang Y, Liu Y, Saykin AJ, **Chen L<sup>&sect;</sup>** (2020) A novel deep learning method for predictive modeling of microbiome data [Briefings in Bioinformatics](https://academic.oup.com/bib/advance-article-abstract/doi/10.1093/bib/bbaa073/5835556?redirectedFrom=fulltext)
 [![MDeep software](icons16/html-icon.png)](https://github.com/lichen-lab/MDeep)
+[![PubMed](icons16/pubmed-icon.png)](https://pubmed.ncbi.nlm.nih.gov/32406914/)
 <!-- * 34 * -->
 
 **Chen L<sup>&sect;</sup>** (2020) powmic: an R package for power assessment in microbiome case-control studies [Bioinformatics](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btaa197/5809526)
 [![powmic software](icons16/html-icon.png)](https://github.com/lichen-lab/powmic)
+[![PubMed](icons16/pubmed-icon.png)](https://pubmed.ncbi.nlm.nih.gov/32186690/)
 <!-- * 33 * -->
 
 Huo N, **Chen L**, Ullah Mishuk A, Li C, Hansen RA, Harris I, Kiptanui Z, Wang Z, Dutcher SK, Qian J (2020) Generic levothyroxine initiation and substitution among Medicare and Medicaid populations: a new user cohort study [Endocrine](https://link.springer.com/article/10.1007%2Fs12020-020-02211-w)
+[![PubMed](icons16/pubmed-icon.png)](https://pubmed.ncbi.nlm.nih.gov/31993992/)
 <!-- * 32 * -->
 
 Yang G, Ma A, Qin ZS<sup>&sect;</sup>, **Chen L<sup>&sect;</sup>** (2020)
 Application of topic models to a compendium of ChIP-Seq datasets uncovers recurrent transcriptional regulatory modules
 [Bioinformatics](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btz975/5695705)
 [![tfLDA software](icons16/html-icon.png)](https://github.com/lichen-lab/tfLDA)
+[![PubMed](icons16/pubmed-icon.png)](https://pubmed.ncbi.nlm.nih.gov/31899481/)
 <!-- * 31 * -->
 
 **Chen L<sup>&sect;</sup>**, Wang F, Bruggeman E, Li C<sup>&dagger;</sup>, Yao B<sup>&sect;</sup> (2020)
 circMeta: a unified computational framework for genomic feature annotation and differential expression analysis of circular RNAs
 [Bioinformatics](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btz606/5543088)
 [![circMeta software](icons16/html-icon.png)](https://github.com/lichen-lab/circMeta)
+[![PubMed](icons16/pubmed-icon.png)](https://pubmed.ncbi.nlm.nih.gov/31373611/)
 <!-- * 30 * -->
 
 Qin L, Xu Q, Li Z, **Chen L**, Li Y, Yang N, Liu Z, Guo J, Shen L, Allen GE, Chen C, Ma C, Wu H, Zhu X, Jin P, Tang B (2020)
 Ethnicity-specific and overlapping alterations of brain hydroxymethylome in Alzheimer’s disease
 [Human Molecular Genetics](https://academic.oup.com/hmg/advance-article-abstract/doi/10.1093/hmg/ddz273/5650471)
+[![PubMed](icons16/pubmed-icon.png)](https://pubmed.ncbi.nlm.nih.gov/31814020/)
 <!-- * 29 * -->
 
 #### 2019
@@ -94,23 +106,27 @@ Sun Z^, **Chen L^**, Xin H, Jiang Y, Huang Q, Cillo A, Tabib T, Kolls J, Bruno T
 A Bayesian mixture model for clustering droplet-based single cell transcriptomic data from population studies
 [Nature Communications](https://www.nature.com/articles/s41467-019-09639-3)
 [![BAMMSC software](icons16/html-icon.png)](https://github.com/lichen-lab/BAMMSC)
+[![PubMed](icons16/pubmed-icon.png)](https://pubmed.ncbi.nlm.nih.gov/30967541/)
 <!-- * 28* -->
 
 Urrutia E, **Chen L**, Zhou H, Jiang Y (2019).
 Destin: toolkit for single-cell analysis of chromatin accessibility 
 [Bioinformatics](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btz141/5367832)
 [![Destin software](icons16/html-icon.png)](https://github.com/urrutiag/destin)
+[![PubMed](icons16/pubmed-icon.png)](https://pubmed.ncbi.nlm.nih.gov/30821321/)
 <!-- * 27 * -->
 
 Hohmann L, Hastings T, Ha D, Garza K, Huston S, **Chen L**, Westrick S (2019). 
 Impact of a multi-component immunization intervention on pneumococcal and herpes zoster vaccinations: A randomized controlled trial of community pharmacies in 2 states 
 [Research in Social and Administrative Pharmacy](https://www.sciencedirect.com/science/article/pii/S1551741118307472)
+[![PubMed](icons16/pubmed-icon.png)](https://pubmed.ncbi.nlm.nih.gov/30777645/)
 <!-- * 26 * -->
 
 **Chen L<sup>&sect;</sup>**, Wang Y<sup>&dagger;</sup>, Yao B, Mitra AK, Wang X, Qin X (2019)
 TIVAN: Tissue-specific cis-eQTL single nucleotide variant annotation and prediction
 [Bioinformatics](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/bty872/5126236)
 [![TIVAN software](icons16/html-icon.png)](https://github.com/lichen-lab/TIVAN)
+[![PubMed](icons16/pubmed-icon.png)](https://pubmed.ncbi.nlm.nih.gov/30304335/)
 <!-- * 25 * -->
 
 #### 2018
@@ -119,24 +135,28 @@ Cheng Y, Sun M, **Chen L**, Li Y, Lin L, Yao B, Li Z, Wang Z, Chen J, Miao Z, Xi
 Ten-eleven translocation proteins modulate the response to environmental stress in mice
 [Cell Reports](https://www.cell.com/cell-reports/fulltext/S2211-1247(18)31837-0)
 [![Data](icons16/data-icon.png)](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE106220)
+[![PubMed](icons16/pubmed-icon.png)](https://pubmed.ncbi.nlm.nih.gov/30540950/)
 <!-- * 24* -->
 
 Xiao J, **Chen L<sup>&sect;</sup>**, Johnson S, Zhang X, Chen J<sup>&sect;</sup> (2018).
 A phylogeny-regularized sparse regression model for predictive modeling of microbial community data
 [Frontiers in Microbiology](https://www.frontiersin.org/articles/10.3389/fmicb.2018.03112/abstract)
 [![SICS software](icons16/html-icon.png)](https://github.com/lichen-lab/SICS)
+[![PubMed](icons16/pubmed-icon.png)](https://pubmed.ncbi.nlm.nih.gov/30619188/)
 <!-- * 23* -->
 
 Yao B, Li Y, Wang Z, **Chen L**, Poidevin M, Zhang C, Lin L, Wang F, Bao H, Jiao B, Lim J, Cheng Y, Huang L, Phillips BL, Xu T, Duan R, Moberg K, Wu H, Jin P (2018). 
 Active N6-Methyladenine Demethylation by DMAD Regulates Gene Expression by Coordinating with Polycomb Protein in Neurons
 [Molecular Cell](https://www.sciencedirect.com/science/article/pii/S1097276518305525)
 [![Data](icons16/data-icon.png)](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE67855)
+[![PubMed](icons16/pubmed-icon.png)](https://pubmed.ncbi.nlm.nih.gov/30078725/)
 <!-- * 22 * -->
 
 Xiao J, **Chen L<sup>&sect;</sup>**, Johnson S, Zhang X, Chen J<sup>&sect;</sup> (2018).
 Predictive modeling of microbiome data using a phylogeny-regularized generalized linear mixed model
 [Frontiers in Microbiology](https://www.frontiersin.org/articles/10.3389/fmicb.2018.01391/abstract)
 [![glmmTree software](icons16/html-icon.png)](https://github.com/lichen-lab/glmmTree)
+[![PubMed](icons16/pubmed-icon.png)](https://pubmed.ncbi.nlm.nih.gov/29997602/)
 <!-- * 21* -->
 
 **Chen L**, Reeve J, Zhang L, Huang S, Wang X, Chen J (2018).
