@@ -35,12 +35,11 @@ description: I am a tenure-track Assistant Professor of Biostatistics at Indiana
 	</div>
 
 
-I am a tenure-track Assistant Professor of Biostatistics and a member in Center for Computational Biology and Bioinformatics at Indiana University School of Medicine. I received a MS in [Biostatistics](http://www.jhsph.edu/departments/biostatistics/index.html) and another MS in [Computer Science](https://www.cs.jhu.edu/) from the Johns Hopkins University, and PhD in [Computer Science and Informatics](http://www.cs.emory.edu/) from Emory University. I also interned in CareerBuilder Data Science and Amazon Machine Learning.
-
+I am a tenure-track Assistant Professor of Biostatistics and a member in Center for Computational Biology and Bioinformatics at Indiana University School of Medicine. I received a MS in [Biostatistics](http://www.jhsph.edu/departments/biostatistics/index.html) and another MS in [Computer Science](https://www.cs.jhu.edu/) from the Johns Hopkins University, and PhD in [Computer Science and Informatics](http://www.cs.emory.edu/) from Emory University.
 
 
 ### Research
-My lab's research focuses on developing statistical and informatics methods for analyzing of multi-omics data. Projects include but not limited to 
+My lab is currently funded by NIH NIGMS, Showalter Trust Research Fund and Indiana University Melvin and Bren Simon Comprehensive Cancer Center. My lab's research focuses on developing statistical and informatics methods for analyzing of multi-omics data. Projects include but not limited to 
 
 - **Epigenomics**: 
 Develop statistical methods and database for analyzing epigenomic data
@@ -51,7 +50,8 @@ Develop statistical methods and database for analyzing epigenomic data
 - **Genetics**:
 Develop computational methods for annotating and analyzing functional variants (GWAS SNPs, cis-eQTL SNVs) by utilizing large-scale multi-omics profiles
 	- GWAS variant enrichment analysis. [<a href="https://academic.oup.com/bioinformatics/article/32/8/1214/1744655">traseR</a>]
-	- Functional variant prediction. [<a href="https://genomebiology.biomedcentral.com/articles/10.1186/s13059-016-1112-z">DIVAN</a>; <a href="https://academic.oup.com/bioinformatics/article/35/9/1573/5126236">TIVAN</a>]
+	- Functional variant prediction. [<a href="https://genomebiology.biomedcentral.com/articles/10.1186/s13059-016-1112-z">DIVAN</a>; <a href="https://academic.oup.com/bioinformatics/article/35/9/1573/5126236">TIVAN</a>; 
+	 <a href="https://academic.oup.com/bib/advance-article-abstract/doi/10.1093/bib/bbab189/6279833?redirectedFrom=fulltext">WEVar</a>]
 
 - **Metagenomics**:
 Develop statistical methods for analyzing microbiome data
