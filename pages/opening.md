@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Lab Openings for PhDs and Postdocs
-description: Openings for PhDs and Postdocs
+title: 
+description: 
 ---
 
 ###  Positions for PhD in Computer Science/Bioinformatics
