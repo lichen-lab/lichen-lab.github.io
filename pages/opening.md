@@ -1,7 +1,5 @@
 ---
 layout: page
-title: 
-description: 
 ---
 
 ###  Positions for PhD in Computer Science/Bioinformatics
