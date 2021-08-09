@@ -4,7 +4,7 @@ title: Lab Openings for PhDs and Postdocs
 description: Openings for PhDs and Postdocs
 ---
 
-###  Positions for PhD students in Computer Science/Bioinformatics
+###  Positions for PhD in Computer Science/Bioinformatics
 
 Dr. Li Chen’s bioinformatics group at Department of Biostatistics and Health Data Science, Indiana University School of Medicine (https://lichen-lab.github.io/) is currently recruiting PhD students in Bioinformatics with focus on developing data science approaches with applications to genomics and genetics. Based on the students’ qualification, the academic home department of the PhD position will be either at Department of Computer Science at Indiana University Bloomington campus (https://cs.indiana.edu/) or at Department of BioHealth Informatics at Indiana University Indianapolis campus (https://soic.iupui.edu/biohealth/graduate/bioinformatics/phd/).
 
