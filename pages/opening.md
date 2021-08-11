@@ -13,7 +13,7 @@ My group is currently recruiting PhD students in Bioinformatics with focus on de
 * The candidate should have strong programming skills with at least one language in R/python and another language in C++/Java.
 * Research experience is a plus but not a requirement.
 
-If you are interested in the position, please send your CV, transcripts, publications to the [email] chen61@iu.edu with email title "PhD application"
+If you are interested in the position, please send your CV, transcripts, publications to the [email](chen61@iu.edu) with email title "PhD application"
 
 
 ### One Postdoc position
@@ -29,7 +29,7 @@ The candidate is expected to work on developing statistical/computational method
 * The candidate should have strong programming skills with at least one language in R/python and another language in C++/Java.
 * The candidate should have at least one first-authored publication in quantitative science.
 
-If you are interested in the position, please send your CV, publications to the [email] chen61@iu.edu with email title "Postdoc application" or apply [online](https://indiana.peopleadmin.com/postings/11244)
+If you are interested in the position, please send your CV, publications to the [email](chen61@iu.edu) with email title "Postdoc application" or apply [online](https://indiana.peopleadmin.com/postings/11244)
 
 
 
