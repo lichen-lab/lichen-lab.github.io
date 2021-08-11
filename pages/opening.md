@@ -13,6 +13,8 @@ Dr. Li Chen’s bioinformatics group at Department of Biostatistics and Health D
 * The candidate should have strong programming skills with at least one language in R/python and another language in C++/Java.
 * Research experience is a plus but not a requirement.
 
+If you are interested in the position, please send your CV, transcripts, publications to the [email] chen61@iu.edu with email title "PhD application"
+
 
 ### One Postdoc position
 
@@ -21,12 +23,19 @@ The Department of Biostatistics is seeking a computational postdoc at Department
 The candidate is expected to work on developing statistical/computational method and software for analyzing large-scale genetic and genomics data. The candidate will have opportunities to collaborate with members of [Center for Computational Biology and Bioinformatics] (https://medicine.iu.edu/research-centers/computational-biology-bioinformatics), as well as many departments (e.g., Cancer, Genetics, Neurology, Immunology) at Indiana University School of Medicine. 
 
 
+#### Qualification requirement
+
+* The ideal candidate should have a PhD degree in Computer Science, Bioinformatics, Statistics or close related fields.
+* The candidate should have strong programming skills with at least one language in R/python and another language in C++/Java.
+* The candidate should have at least one first-authored publication in quantitative science.
+
+If you are interested in the position, please send your CV, publications to the [email] chen61@iu.edu with email title "Postdoc application" or apply [online] (https://indiana.peopleadmin.com/postings/11244)
+
+
 
 #### More information
 
 Indiana University School of Medicine (IUSM) is the only publicly supported medical school in Indiana. As the largest medical school in the United States, IUSM is consistently ranked among the top medical schools in the nation by US News & World Report. The medical campus in Indianapolis consists of four health-related professional schools for Indiana University: Medicine, Nursing, Dentistry, and Public Health. Indianapolis is the 15th largest city in the nation with a cost of living below the national average. The surrounding suburbs such as the towns of Carmel, Fishers, and Zionsville are consistently ranked the best places to live in the country. The city enjoys a vibrant and developing art, music, and food culture. The city’s downtown is also thriving, with many restaurants and activities. Indianapolis is internationally recognized for various professional and amateur sports teams and events.
 
-#### Contact
 
-If you are interested in the position, please send your CV, transcripts, publications to chen61@iu.edu with email title "PhD application"
 
