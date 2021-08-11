@@ -5,13 +5,22 @@ title: Opening positions
 
 ### Positions for PhD in Computer Science/Bioinformatics
 
-Dr. Li Chen’s bioinformatics group at Department of Biostatistics and Health Data Science, Indiana University School of Medicine (https://lichen-lab.github.io/) is currently recruiting PhD students in Bioinformatics with focus on developing data science approaches with applications to genomics and genetics. Based on the students’ qualification, the academic home department of the PhD position will be either at Department of Computer Science at Indiana University Bloomington campus (https://cs.indiana.edu/) or at Department of BioHealth Informatics at Indiana University Indianapolis campus (https://soic.iupui.edu/biohealth/graduate/bioinformatics/phd/).
+Dr. Li Chen’s bioinformatics group at Department of Biostatistics and Health Data Science, Indiana University School of Medicine (https://lichen-lab.github.io/) is currently recruiting PhD students in Bioinformatics with focus on developing data science approaches with applications to genomics and genetics. Based on the students’ qualification, the academic home department of the PhD position will be either at [Department of Computer Science at Indiana University Bloomington campus] (https://cs.indiana.edu/) or at [Department of BioHealth Informatics at Indiana University Indianapolis campus] (https://soic.iupui.edu/biohealth/graduate/bioinformatics/phd/).
 
 #### Qualification requirement
 
 * The ideal candidate should have a BS or MS degree in Computer Science, Bioinformatics, Statistics or close related fields.
 * The candidate should have strong programming skills with at least one language in R/python and another language in C++/Java.
 * Research experience is a plus but not a requirement.
+
+
+### One Position for Postdoc 
+
+The Department of Biostatistics is seeking a computational postdoc at Department of Biostatistics and Health Data Science in [Indiana University School of Medicine] (https://medicine.iu.edu/biostatistics). The position will be offered as one-year appointments, renewable twice for a total of up to three years in a trainee position. We mainly focus on developing statistical, machine learning and deep learning methods to analyze multi-omics data (genetic, epigenetic, transcriptomic, imaging, single-cell genomics and proteomic data) with the goal of understanding the underlying genetic architecture of complex traits and diseases.
+ 
+The candidate is expected to work on developing statistical/computational method and software for analyzing large-scale genetic and genomics data. The candidate will have opportunities to collaborate with members of [Center for Computational Biology and Bioinformatics] (https://medicine.iu.edu/research-centers/computational-biology-bioinformatics), as well as many departments (e.g., Cancer, Genetics, Neurology, Immunology) at Indiana University School of Medicine. 
+
+
 
 #### More information
 
