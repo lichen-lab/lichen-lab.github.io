@@ -10,10 +10,24 @@ My group is currently recruiting PhD students in Bioinformatics with focus on de
 #### Qualification requirement
 
 * The ideal candidate should have a BS or MS degree in Computer Science, Bioinformatics, Statistics or close related fields.
-* The candidate should have strong programming skills with at least one language in R/python and another language in C++/Java.
+* The candidate should have strong programming skills.
+* Maintain good GPA in statistics/machine learning/computing courses.
 * Research experience is a plus but not a requirement.
 
 If you are interested in the position, please send your CV, transcripts, publications to the [email](chen61@iu.edu) with email title "PhD application"
+
+
+### MS/BS in Computer Science/Biostatistics/Bioinformatics
+
+My group is also recruiting MS/BS students for hourly paid research projects.
+
+#### Qualification requirement
+
+* The ideal candidate should have a BS or MS degree in Computer Science, Bioinformatics, Statistics or close related fields.
+* The candidate should have strong programming skills.
+* Maintain good GPA in statistics/machine learning/computing courses.
+
+If you are interested in the position, please send your CV and transcripts to the [email](chen61@iu.edu) with email title "MS/BS application"
 
 
 ### One Postdoc position
@@ -26,7 +40,8 @@ The candidate is expected to work on developing statistical/computational method
 #### Qualification requirement
 
 * The ideal candidate should have a PhD degree in Computer Science, Bioinformatics, Statistics or close related fields.
-* The candidate should have strong programming skills with at least one language in R/python and another language in C++/Java.
+* The candidate should have strong programming skills especially in Python and R.
+* Strong statistics/machine learning background.
 * The candidate should have at least one first-authored publication in quantitative science.
 
 If you are interested in the position, please send your CV, publications to the [email](chen61@iu.edu) with email title "Postdoc application" or apply [online](https://indiana.peopleadmin.com/postings/11244)
