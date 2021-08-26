@@ -35,7 +35,7 @@ description: I am a tenure-track Assistant Professor of Biostatistics at Indiana
 	</div>
 
 
-I am a tenure-track Assistant Professor of Biostatistics and a member in Center for Computational Biology and Bioinformatics at Indiana University School of Medicine. I received a MS in [Biostatistics](http://www.jhsph.edu/departments/biostatistics/index.html) and another MS in [Computer Science](https://www.cs.jhu.edu/) from the Johns Hopkins University, and PhD in [Computer Science and Informatics](http://www.cs.emory.edu/) from Emory University.
+I am a tenure-track Assistant Professor of Biostatistics and a member in Center for Computational Biology and Bioinformatics at Indiana University School of Medicine. I received a MS in [Biostatistics](http://www.jhsph.edu/departments/biostatistics/index.html) and another MS in [Computer Science](https://www.cs.jhu.edu/) from the Johns Hopkins University in 2011, and PhD in [Computer Science and Informatics](http://www.cs.emory.edu/) from Emory University in 2017.
 
 ### Opening
 My lab now has multiple openings for PhD/MS students and one opening for Postdoc. Interested candidates please refer the [Opening](https://lichen-lab.github.io//pages/opening.html) for how to apply.
