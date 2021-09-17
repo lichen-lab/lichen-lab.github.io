@@ -12,7 +12,6 @@ description: Li Lab members
         <div class="span2">
                  <a href="../assets/pics/Chen.jpg">
             <img src="../assets/pics/Chen.jpg" height="200" width="150" title="Li Chen" alt="Li Chen"/>
-
         </a>
         </div>
     </div>
