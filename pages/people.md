@@ -35,6 +35,8 @@ Andy Dang, PhD student in Biostatistics (BS mathematics/economics, UCLA)
 
 ###  MS students 
 
+Aman Agarwal, MS student in Computer Science
+
 <br/>
 
 
@@ -46,6 +48,8 @@ Andy Dang, PhD student in Biostatistics (BS mathematics/economics, UCLA)
 <strong>Current position</strong>: Postdoc at Biogen. </li>
     
 ###  MS
+
+
 
 <li> <strong>Gaoxiang Li</strong>, MS in Computer Science at Auburn University, 2020. 
 <strong>Current position</strong>: Ph.D. student in the Department of Computer Science, Texas Tech University. </li>
