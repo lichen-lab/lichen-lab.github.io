@@ -36,6 +36,8 @@ Andy Dang, PhD student in Biostatistics (BS mathematics/economics, UCLA)
 
 Aman Agarwal, MS student in Computer Science
 
+Toluwanimi Shorinwa, MS in Electronic Computer Engineering
+
 <br/>
 
 
@@ -44,7 +46,7 @@ Aman Agarwal, MS student in Computer Science
 ###  PhD
 
 <li> <strong>Ye Wang</strong>, PhD in Computer Science at Auburn University, 2021. 
-<strong>Current position</strong>: Postdoc at Biogen. </li>
+<strong>Current position</strong>: Research Scientist at Biogen. </li>
     
 ###  MS
 
