@@ -20,6 +20,12 @@ description: Li Chen's publications
 
 #### 2021
 
+Li C, **Chen L**, Chou C, Ngorsuraches S, Qian J (2021) Using Machine Learning Approaches to Predict Short-Term Risk of Cardiotoxicity Among Patients with Colorectal Cancer after Starting Fluoropyrimidine-based Chemotherapy. [Cardiovascular Toxicology] (Accepted) 
+<!-- * 47 * -->
+
+**Chen L**, Li MJ (2021) Editorial: Deciphering Noncoding Regulatory Variants Computational and Functional Validation. [Frontiers in Bioengineering and Biotechnology] (https://www.frontiersin.org/articles/10.3389/fbioe.2021.769614/full)
+<!-- * 46 * -->
+
 Kim H, Kang Y, Li Y, **Chen L**, Lin L, Johnson ND, Zhu D, Robinson MH, McSwain L, Barwick BG, Yuan X, Liao X, Zhao J, Zhang Z, Shu Q, Chen J, Allen EG, Kenney AM, Castellino RC, Van Meir EG, Conneely KN, Vertino PM, Jin P, Li J (2021) Ten-eleven translocation protein 1 modulates medulloblastoma progression. [Genome Biology](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02352-9)
  [![PubMed](icons16/pubmed-icon.png)](https://pubmed.ncbi.nlm.nih.gov/33926529/)
  [![Data](icons16/data-icon.png)](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE74336)
