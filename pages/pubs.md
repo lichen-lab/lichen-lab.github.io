@@ -20,7 +20,7 @@ description: Li Chen's publications
 
 #### 2022
 
-**Chen L**, Wang Y<sup>&dagger;</sup> (2022) Exploiting deep transfer learning for the prediction of functional noncoding variants using genomic sequence  [Bioinformatics](https://academic.oup.com/bioinformatics/advance-article-abstract/doi/10.1093/bioinformatics/btac214/6564688?redirectedFrom=fulltext)
+**Chen L<sup>&sect;</sup>**, Wang Y<sup>&dagger;</sup> (2022) Exploiting deep transfer learning for the prediction of functional noncoding variants using genomic sequence  [Bioinformatics](https://academic.oup.com/bioinformatics/advance-article-abstract/doi/10.1093/bioinformatics/btac214/6564688?redirectedFrom=fulltext)
 [![TLVar software](icons16/html-icon.png)](https://github.com/lichen-lab/TLVar)
 [![PubMed](icons16/pubmed-icon.png)](https://pubmed.ncbi.nlm.nih.gov/35389435/)
 <!-- * 49 * -->
