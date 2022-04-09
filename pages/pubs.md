@@ -18,9 +18,21 @@ description: Li Chen's publications
 
 **Key**: &sect; indicates (co-)corresponding author; &dagger; indicates advisee; ^indicates (co-) first author	
 
+#### 2022
+
+**Chen L**, Wang Y<sup>&dagger;</sup> (2022) Exploiting deep transfer learning for the prediction of functional noncoding variants using genomic sequence  [Bioinformatics](https://academic.oup.com/bioinformatics/advance-article-abstract/doi/10.1093/bioinformatics/btac214/6564688?redirectedFrom=fulltext)
+[![TLVar software](icons16/html-icon.png)](https://github.com/lichen-lab/TLVar)
+[![PubMed](icons16/pubmed-icon.png)](https://pubmed.ncbi.nlm.nih.gov/35389435/)
+<!-- * 49 * -->
+
+Li Y, Wang F, Teng P, Ku L, **Chen L**, Feng Y, Yao B (2022) Accurate identification of circRNA landscape and complexity reveals their pivotal roles in human oligodendroglia differentiation. [Genome Biology](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02621-1)
+ [![PubMed](icons16/pubmed-icon.png)](https://pubmed.ncbi.nlm.nih.gov/35130952/)
+ [![Data](icons16/data-icon.png)](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE181729)
+<!-- * 48 * -->
+
 #### 2021
 
-Li C, **Chen L**, Chou C, Ngorsuraches S, Qian J (2021) Using Machine Learning Approaches to Predict Short-Term Risk of Cardiotoxicity Among Patients with Colorectal Cancer after Starting Fluoropyrimidine-based Chemotherapy. [Cardiovascular Toxicology] (Accepted) 
+Li C, **Chen L**, Chou C, Ngorsuraches S, Qian J (2021) Using Machine Learning Approaches to Predict Short-Term Risk of Cardiotoxicity Among Patients with Colorectal Cancer after Starting Fluoropyrimidine-based Chemotherapy. [Cardiovascular Toxicology] (https://link.springer.com/article/10.1007/s12012-021-09708-4) 
 <!-- * 47 * -->
 
 **Chen L**, Li MJ (2021) Editorial: Deciphering Noncoding Regulatory Variants Computational and Functional Validation. [Frontiers in Bioengineering and Biotechnology](https://www.frontiersin.org/articles/10.3389/fbioe.2021.769614/full)
@@ -31,8 +43,9 @@ Kim H, Kang Y, Li Y, **Chen L**, Lin L, Johnson ND, Zhu D, Robinson MH, McSwain 
  [![Data](icons16/data-icon.png)](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE74336)
 <!-- * 45 * -->
 
-Wang Y<sup>&dagger;</sup>, Jiang Y, Yao B, Huang K, Liu Y, Wang Y, Qin X, Saykin AJ, **Chen L<sup>&sect;</sup>** (2021) WEVar: a novel statistical learning framework for predicting noncoding regulatory variants. [Briefings in Bioinformatics](Accepted)
+Wang Y<sup>&dagger;</sup>, Jiang Y, Yao B, Huang K, Liu Y, Wang Y, Qin X, Saykin AJ, **Chen L<sup>&sect;</sup>** (2021) WEVar: a novel statistical learning framework for predicting noncoding regulatory variants. [Briefings in Bioinformatics](https://academic.oup.com/bib/article-abstract/22/6/bbab189/6279833?redirectedFrom=fulltext)
 [![MDeep software](icons16/html-icon.png)](https://github.com/lichen-lab/WEVar)
+[![PubMed](icons16/pubmed-icon.png)](https://pubmed.ncbi.nlm.nih.gov/34021560/)
 <!-- * 44 * -->
 
 Li C, Ngorsuraches S, Chou C, **Chen L**, Qian J (2021) Risk Factors of Fluoropyrimidine Induced Cardiotoxicity Among Cancer Patients: A Systematic Review and Meta-analysis. [Critical Reviews in Oncology/Hematology](https://www.sciencedirect.com/science/article/abs/pii/S1040842821001347)
