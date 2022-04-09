@@ -32,7 +32,7 @@ Li Y, Wang F, Teng P, Ku L, **Chen L**, Feng Y, Yao B (2022) Accurate identifica
 
 #### 2021
 
-Li C, **Chen L**, Chou C, Ngorsuraches S, Qian J (2021) Using Machine Learning Approaches to Predict Short-Term Risk of Cardiotoxicity Among Patients with Colorectal Cancer after Starting Fluoropyrimidine-based Chemotherapy. [Cardiovascular Toxicology] (https://link.springer.com/article/10.1007/s12012-021-09708-4) 
+Li C, **Chen L**, Chou C, Ngorsuraches S, Qian J (2021) Using Machine Learning Approaches to Predict Short-Term Risk of Cardiotoxicity Among Patients with Colorectal Cancer after Starting Fluoropyrimidine-based Chemotherapy. [Cardiovascular Toxicology](https://link.springer.com/article/10.1007/s12012-021-09708-4) 
 <!-- * 47 * -->
 
 **Chen L**, Li MJ (2021) Editorial: Deciphering Noncoding Regulatory Variants Computational and Functional Validation. [Frontiers in Bioengineering and Biotechnology](https://www.frontiersin.org/articles/10.3389/fbioe.2021.769614/full)
