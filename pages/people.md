@@ -24,9 +24,9 @@ Li Chen, Principal Investigator
 
 ###  PhD students 
 
-Fengdi Zhao, PhD student in Biostatistics (BS mathematics, University of Washington)
+Fengdi Zhao, PhD student in Biostatistics
 
-Andy Dang, PhD student in Biostatistics (BS mathematics/economics, UCLA)
+Xin Ma, PhD student in Biostatistics
 
 
 <br/>
