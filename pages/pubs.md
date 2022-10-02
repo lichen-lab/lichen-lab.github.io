@@ -20,7 +20,12 @@ description: Li Chen's publications
 
 #### 2022
 
-**Chen L<sup>&sect;</sup>**, Wang Y<sup>&dagger;</sup> (2022) Exploiting deep transfer learning for the prediction of functional noncoding variants using genomic sequence  [Bioinformatics](https://academic.oup.com/bioinformatics/advance-article-abstract/doi/10.1093/bioinformatics/btac214/6564688?redirectedFrom=fulltext)
+Tang PC, **Chen L**, Singh S, Groves AK, Koehler KR, Liu XZ, Nelson RF(2022) Early Wnt signaling activation promotes inner ear differentiation via cell caudalization in mouse stem cell-derived organoids [Stem Cells](https://academic.oup.com/stmcls/advance-article/doi/10.1093/stmcls/sxac071/6717244)
+[![PubMed](icons16/pubmed-icon.png)](https://pubmed.ncbi.nlm.nih.gov/36153788/)
+[![Data](icons16/data-icon.png)](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE180062)
+<!-- * 50 * -->
+  
+**Chen L<sup>&sect;</sup>**, Wang Y<sup>&dagger;</sup>, Zhao F<sup>&dagger;</sup> (2022) Exploiting deep transfer learning for the prediction of functional noncoding variants using genomic sequence  [Bioinformatics](https://academic.oup.com/bioinformatics/advance-article-abstract/doi/10.1093/bioinformatics/btac214/6564688?redirectedFrom=fulltext)
 [![TLVar software](icons16/html-icon.png)](https://github.com/lichen-lab/TLVar)
 [![PubMed](icons16/pubmed-icon.png)](https://pubmed.ncbi.nlm.nih.gov/35389435/)
 <!-- * 49 * -->
