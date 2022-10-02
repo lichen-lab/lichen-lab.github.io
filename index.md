@@ -1,13 +1,12 @@
 ---
 layout: page
-description: I am a tenure-track Assistant Professor of Biostatistics at Indiana University School of Medicine. I am also a member at Center for Computational Biology and Bioinformatics.
+description: I am an Associate Professor of Biostatistics at University of Florida.
 ---
 
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
           <li><a href="https://scholar.google.com/citations?user=Nk-yRrcAAAAJ&hl=en">Google Scholar</a></li>
-        <li><a href="https://medicine.iu.edu/faculty/47520/chen-li">Official Website</a></li>
       </ul>
   </div>
 </div>
@@ -19,15 +18,14 @@ description: I am a tenure-track Assistant Professor of Biostatistics at Indiana
     <div class="row-fluid">
         <div class="span5">
             Li Chen<br/>
-            <a href="https://medicine.iu.edu/faculty/47520/chen-li">Assistant Professor of Biostatistics</a><br/>
-		<a href="https://medicine.iu.edu/biostatistics/">Department of Biostatistics and Health Data Science</a><br/>
-            <a href="https://medicine.iu.edu/research/centers-institutes/computational-biology-bioinformatics/">Center for Computational Biology and Bioinformatics</a><br/>
-		 <a href="https://medicine.iu.edu/">Indiana University School of Medicine</a><br/>
- 410 W. 10th Street, HS 5025 <br/>
-    Indianapolis, IN 46202<br/>
+            <a href="https://biostat.ufl.edu/">Associate Professor of Biostatistics</a><br/>
+		<a href="https://biostat.ufl.edu/">Department of Biostatistics</a><br/>
+		 <a href="https://www.ufl.edu/">University of Florida</a><br/>
+ 2004 Mowry Road, 5th Floor CTRB  <br/>
+    Gainesville, FL 32611-7450 <br/>
             USA<br/>
             <div id="hide_email">
-            Email: <code>chen61@iu.edu</code><br/>
+            Email: <code>li.chen1@ufl.edu</code><br/>
             </div>
         </div>
 </div>
@@ -35,13 +33,13 @@ description: I am a tenure-track Assistant Professor of Biostatistics at Indiana
 	</div>
 
 
-I am a tenure-track Assistant Professor of Biostatistics and a member in Center for Computational Biology and Bioinformatics at Indiana University School of Medicine. I received a MS in [Biostatistics](http://www.jhsph.edu/departments/biostatistics/index.html) and another MS in [Computer Science](https://www.cs.jhu.edu/) from the Johns Hopkins University in 2011, and PhD in [Computer Science and Informatics](http://www.cs.emory.edu/) from Emory University in 2017.
+I am an Associate Professor of Biostatistics at University of Florida. I obtained my PhD in [Computer Science and Informatics](http://www.cs.emory.edu/) from Emory University, and a MS in [Biostatistics](http://www.jhsph.edu/departments/biostatistics/index.html) and another MS in [Computer Science](https://www.cs.jhu.edu/) from the Johns Hopkins University.
 
 ### Opening
 My lab now has multiple openings for PhD/MS students and one opening for Postdoc. Interested candidates please refer the [Opening](https://lichen-lab.github.io//pages/opening.html) for how to apply.
 
 ### Research
-My lab is currently funded by NIH NIGMS, Showalter Trust Research Fund and Indiana University Melvin and Bren Simon Comprehensive Cancer Center. My lab's research focuses on developing statistical and informatics methods for analyzing of multi-omics data. Projects include but not limited to 
+My lab is currently funded by NIH NIGMS. My lab's research focuses on developing statistical and informatics methods for analyzing of multi-omics data. Projects include but not limited to 
 
 - **Epigenomics**: 
 Develop statistical methods and database for analyzing epigenomic data
