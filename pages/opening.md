@@ -18,7 +18,7 @@ If you are interested in the position, please send your CV, transcripts, publica
 * Copies of undergraduate and graduate transcripts
 * Prior publications if available
 
-### MS/BS in Computer Science/Statistics/Biostatistics/Electrical and Computer Engineering/Biomedical Engineering
+### MS/BS RA positions
 
 My group is also recruiting MS/BS students for Temporary Employment (OPS). We expect applicants with the following qualities:
 
