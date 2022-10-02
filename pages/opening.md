@@ -43,7 +43,7 @@ If you are interested in the position, please send your CV, publications to the 
 
 
 
-#### Why University of Florida?
+### Why University of Florida?
 
 * Overall Ranking: #5 among public universities; #29 among all universities (USNews 2022)
 * Biostatistics Ranking: #11 among public universities (USNews)
