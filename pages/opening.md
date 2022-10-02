@@ -5,7 +5,7 @@ title: Opening positions
 
 ### PhD Positions
 
-My group is currently recruiting PhD students with focus on developing data science approaches with applications to genomics and genetics. For students who are interested in applying UF PhD program, please refer to the application [link] (https://biostat.ufl.edu/education/phd-in-biostatistics/phd-how-to-apply/). For students already in UF PhD program, please reach me directly by setting an appointment to discuss mutual interest. We expect applicants with the following qualities:
+My group is currently recruiting PhD students with focus on developing data science approaches with applications to genomics and genetics. For students who are interested in applying UF PhD program, please refer to the application [link](https://biostat.ufl.edu/education/phd-in-biostatistics/phd-how-to-apply/). For students already in UF PhD program, please reach me directly by setting an appointment to discuss mutual interest. We expect applicants with the following qualities:
 
 * Passionate in statistical learning, machine learning, and deep learning research, self-motivated
 * Strong Math/Statistics and/or R/Python programming
