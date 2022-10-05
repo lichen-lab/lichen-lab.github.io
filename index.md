@@ -21,7 +21,7 @@ description: I am an Associate Professor of Biostatistics at University of Flori
             <a href="https://biostat.ufl.edu/">Associate Professor of Biostatistics</a><br/>
 		<a href="https://biostat.ufl.edu/">Department of Biostatistics</a><br/>
 		 <a href="https://www.ufl.edu/">University of Florida</a><br/>
- 2004 Mowry Road, 5th Floor CTRB  <br/>
+ 2004 Mowry Road, 5th Floor CTRB, 5211 RM  <br/>
     Gainesville, FL 32611-7450 <br/>
             USA<br/>
             <div id="hide_email">
