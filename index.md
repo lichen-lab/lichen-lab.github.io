@@ -18,7 +18,7 @@ description: I am an Associate Professor of Biostatistics at University of Flori
     <div class="row-fluid">
         <div class="span5">
             Li Chen<br/>
-            <a href="https://biostat.ufl.edu/">Associate Professor of Biostatistics</a><br/>
+            <a href="https://directory.ufhealth.org/chen-li-1">Associate Professor</a><br/>
 		<a href="https://biostat.ufl.edu/">Department of Biostatistics</a><br/>
 		 <a href="https://www.ufl.edu/">University of Florida</a><br/>
  2004 Mowry Road, 5th Floor CTRB, 5211 RM  <br/>
