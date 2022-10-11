@@ -20,6 +20,10 @@ description: Li Chen's publications
 
 #### 2022
 
+**Chen L<sup>&sect;</sup>**, Saykin AJ<sup>&dagger;</sup>, Yao B<sup>&dagger;</sup>, Zhao F<sup>&dagger;</sup> (2022) Multi-task deep autoencoder to predict Alzheimer’s disease progression using temporal DNA methylation data in peripheral blood  [Computational and Structural Biotechnology Journal]
+[![MTAE Software](icons16/html-icon.png)](https://github.com/lichen-lab/MTAE)
+<!-- * 51 * -->
+
 Tang PC, **Chen L**, Singh S, Groves AK, Koehler KR, Liu XZ, Nelson RF (2022) Early Wnt signaling activation promotes inner ear differentiation via cell caudalization in mouse stem cell-derived organoids [Stem Cells](https://academic.oup.com/stmcls/advance-article/doi/10.1093/stmcls/sxac071/6717244)
 [![PubMed](icons16/pubmed-icon.png)](https://pubmed.ncbi.nlm.nih.gov/36153788/)
 [![Data](icons16/data-icon.png)](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE180062)
