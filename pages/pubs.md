@@ -20,7 +20,7 @@ description: Li Chen's publications
 
 #### 2022
 
-**Chen L<sup>&sect;</sup>**, Saykin AJ<sup>&dagger;</sup>, Yao B<sup>&dagger;</sup>, Zhao F<sup>&dagger;</sup> (2022) Multi-task deep autoencoder to predict Alzheimer’s disease progression using temporal DNA methylation data in peripheral blood  [Computational and Structural Biotechnology Journal]
+**Chen L<sup>&sect;</sup>**, Saykin AJ, Yao B, Zhao F<sup>&dagger;</sup> (2022) Multi-task deep autoencoder to predict Alzheimer’s disease progression using temporal DNA methylation data in peripheral blood  [Computational and Structural Biotechnology Journal]
 [![MTAE Software](icons16/html-icon.png)](https://github.com/lichen-lab/MTAE)
 <!-- * 51 * -->
 
