@@ -6,6 +6,7 @@ description: I am an Associate Professor of Biostatistics at University of Flori
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
+	   <li><a href="https://directory.ufhealth.org/chen-li-1">UF website</a></li>
           <li><a href="https://scholar.google.com/citations?user=Nk-yRrcAAAAJ&hl=en">Google Scholar</a></li>
       </ul>
   </div>
