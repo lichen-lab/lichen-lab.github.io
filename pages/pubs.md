@@ -20,7 +20,7 @@ description: Li Chen's publications
 
 #### 2022
 
-Wang Y<sup>&dagger;</sup>, **Chen L<sup>&sect;</sup>** (2022) DeepPerVar: a multimodal deep learning framework for functional interpretation of genetic variants in personal genome [Bioinformatics](https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftrack.smtpsendmail.com%2F9032119%2Fc%3Fp%3DzPqsR7ahfZ5pVoUZvxkDQpFHN1oOKJP5_3wG7N4xgV6NNOABiZ2HljeFE3Py-Dhzln_h1lhF9nyjcHhqrsKpkQ-JPHRUS1x0ZgFCUwp8WxM4F5luKXFIfsgoWIRf4iXeS5RPzdGCG_60Dv_g__wqq0Tu1zQ_RusK98NYn0uLxz9rZV6-d2KVQ9QZZe4wL-JfmM_vZ3o6yh7jPbog90ACyH2b0v6oMh29Tijpn9vMc4GEf7sWROpurxorjqAYPYaiUn60x_4XO8oL0s_2t9L7aVDI_c3fHs2AUi_atJxXEcSqR6ploXimVgfy1L8ysr4CmTCLDuDtdcnnkN1KtykrIQ%3D%3D&data=05%7C01%7Cli.chen1%40ufl.edu%7C4cebb430928e4506d97908dab4500ca7%7C0d4da0f84a314d76ace60a62331e1b84%7C0%7C0%7C638020553516040127%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C2000%7C%7C%7C&sdata=nPjXWkUsGZEZ1t8k5QxtE%2BmqpVDRuo6lIg8H%2F%2BTMgFc%3D&reserved=0)
+Wang Y<sup>&dagger;</sup>, **Chen L<sup>&sect;</sup>** (2022) DeepPerVar: a multimodal deep learning framework for functional interpretation of genetic variants in personal genome [Bioinformatics](https://doi.org/10.1093/bioinformatics/btac696)
 [![DeepPerVar Software](icons16/html-icon.png)](https://github.com/lichen-lab/DeepPerVar)
 <!-- * 52 * -->
 
