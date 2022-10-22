@@ -20,7 +20,7 @@ description: Li Chen's publications
 
 #### 2022
 
-Wang Y<sup>&dagger;</sup>, **Chen L<sup>&sect;</sup>** (2022) DeepPerVar: a multimodal deep learning framework for functional interpretation of genetic variants in personal genome [Bioinformatics]([https://academic.oup.com/bioinformatics/advance-articles](https://academic.oup.com/bioinformatics/advance-article-abstract/doi/10.1093/bioinformatics/btac696/6769889?utm_source=advanceaccess&utm_campaign=bioinformatics&utm_medium=email)
+Wang Y<sup>&dagger;</sup>, **Chen L<sup>&sect;</sup>** (2022) DeepPerVar: a multimodal deep learning framework for functional interpretation of genetic variants in personal genome [Bioinformatics](https://academic.oup.com/bioinformatics/advance-articles](https://academic.oup.com/bioinformatics/advance-article-abstract/doi/10.1093/bioinformatics/btac696/6769889?utm_source=advanceaccess&utm_campaign=bioinformatics&utm_medium=email)
 [![DeepPerVar Software](icons16/html-icon.png)](https://github.com/lichen-lab/DeepPerVar)
 <!-- * 52 * -->
 
