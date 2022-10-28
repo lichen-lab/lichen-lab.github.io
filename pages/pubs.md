@@ -24,7 +24,7 @@ Wang Y<sup>&dagger;</sup>, **Chen L<sup>&sect;</sup>** (2022) DeepPerVar: a mult
 [![DeepPerVar Software](icons16/html-icon.png)](https://github.com/lichen-lab/DeepPerVar)
 <!-- * 52 * -->
 
-**Chen L<sup>&sect;</sup>**, Saykin AJ, Yao B, Zhao F<sup>&dagger;</sup> (2022) Multi-task deep autoencoder to predict Alzheimer’s disease progression using temporal DNA methylation data in peripheral blood  [Computational and Structural Biotechnology Journal](https://www.journals.elsevier.com/computational-and-structural-biotechnology-journal)
+**Chen L<sup>&sect;</sup>**, Saykin AJ, Yao B, Zhao F<sup>&dagger;</sup> (2022) Multi-task deep autoencoder to predict Alzheimer’s disease progression using temporal DNA methylation data in peripheral blood  [Computational and Structural Biotechnology Journal](https://doi.org/10.1016/j.csbj.2022.10.016)
 [![MTAE Software](icons16/html-icon.png)](https://github.com/lichen-lab/MTAE)
 <!-- * 51 * -->
 
