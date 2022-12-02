@@ -53,9 +53,9 @@ Develop statistical methods and database for analyzing epigenomic data
 - **Genetics**:
 Develop computational methods for annotating and analyzing functional variants (GWAS SNPs, cis-eQTL SNVs) by utilizing large-scale multi-omics profiles
 	- GWAS variant enrichment analysis. [<a href="https://academic.oup.com/bioinformatics/article/32/8/1214/1744655">traseR</a>]
-	- Functional variant prediction. [<a href="https://genomebiology.biomedcentral.com/articles/10.1186/s13059-016-1112-z">DIVAN</a>; <a href="https://academic.oup.com/bioinformatics/article/35/9/1573/5126236">TIVAN</a>;
-	 <a href="https://academic.oup.com/bib/advance-article-abstract/doi/10.1093/bib/bbab189/6279833?redirectedFrom=fulltext">WEVar</a>
-	 <a href="https://pubmed.ncbi.nlm.nih.gov/35389435/">TLVar</a>]
+	- Functional variant prediction. [<a href="https://genomebiology.biomedcentral.com/articles/10.1186/s13059-016-1112-z">DIVAN</a>;<a href="https://academic.oup.com/bioinformatics/article/35/9/1573/5126236">TIVAN</a>;
+	 <a href="https://academic.oup.com/bib/advance-article-abstract/doi/10.1093/bib/bbab189/6279833?redirectedFrom=fulltext">WEVar</a>;
+	 <a href="https://pubmed.ncbi.nlm.nih.gov/35389435/">TLVar</a>];
 	 <a href="https://pubmed.ncbi.nlm.nih.gov/36271868/">DeepPerVar</a>]
 
 - **Metagenomics**:
