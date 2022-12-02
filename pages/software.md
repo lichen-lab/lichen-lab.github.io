@@ -22,7 +22,7 @@ Here is a list of software I developed.
 ---
 
 
-### github software packages
+### github R/Python software packages
 
 * <a name="glmmTree"></a>[glmmTree](https://github.com/lichen-lab/glmmTree)
 : predictive modeling of microbiome data using a phylogenetic tree-based GLMM
@@ -47,6 +47,18 @@ Here is a list of software I developed.
 
 * <a name="MDeep"></a>[MDeep](https://github.com/lichen-lab/MDeep)
 : predictive modeling of microbiome data using a novel convolutional neural network
+
+* <a name="TLVar"></a>[TLVar](https://github.com/lichen-lab/TLVar)
+: Exploiting deep transfer learning for the prediction of functional noncoding variants using genomic sequence
+
+* <a name="MTAE"></a>[MTAE](https://github.com/lichen-lab/MTAE)
+: Multi-task deep autoencoder improves the prediction for Alzheimer's disease progression using temporal DNA methylation data in peripheral blood
+
+* <a name="DeepPerVar"></a>[DeepPerVar](https://github.com/lichen-lab/DeepPerVar)
+: By leveraging paired whole genome sequencing data and epigenetic functional assays in a population cohort, a DeepPerVar is a multi-modal deep learning framework to predict genome-wide quantitative epigenetic signals and evaluate the functional consequence of noncoding variants on an individual level by quantifying their allelic difference on the prediction. 
+
+* <a name="DeepPHiC"></a>[DeepPHiC](https://github.com/lichen-lab/DeepPHiC)
+: DeepPHiC: Predicting promoter-centered chromatin interactions using a deep learning approach
 
 ---
 
