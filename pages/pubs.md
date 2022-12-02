@@ -18,6 +18,13 @@ description: Li Chen's publications
 
 **Key**: &sect; indicates (co-)corresponding author; &dagger; indicates advisee; ^indicates (co-) first author	
 
+#### 2023
+
+Agarwal A<sup>&dagger;</sup>, **Chen L<sup>&sect;</sup>** (2023) DeepPHiC: Predicting promoter-centered chromatin interactions using a novel deep learning approach [Bioinformatics](To appear)
+[![DeepPerVar Software](icons16/html-icon.png)](https://github.com/lichen-lab/DeepPHiC)
+<!-- * 53 * -->
+
+
 #### 2022
 
 Wang Y<sup>&dagger;</sup>, **Chen L<sup>&sect;</sup>** (2022) DeepPerVar: a multimodal deep learning framework for functional interpretation of genetic variants in personal genome [Bioinformatics](https://doi.org/10.1093/bioinformatics/btac696)
