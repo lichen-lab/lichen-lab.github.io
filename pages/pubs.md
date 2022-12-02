@@ -20,8 +20,8 @@ description: Li Chen's publications
 
 #### 2023
 
-Agarwal A<sup>&dagger;</sup>, **Chen L<sup>&sect;</sup>** (2023) DeepPHiC: Predicting promoter-centered chromatin interactions using a novel deep learning approach [Bioinformatics](https://www.biorxiv.org/content/10.1101/2022.05.24.493333v1) (To 
-[![DeepPerVar Software](icons16/html-icon.png)](https://github.com/lichen-lab/DeepPHiC)
+Agarwal A<sup>&dagger;</sup>, **Chen L<sup>&sect;</sup>** (2023) DeepPHiC: Predicting promoter-centered chromatin interactions using a novel deep learning approach [Bioinformatics](https://www.biorxiv.org/content/10.1101/2022.05.24.493333v1) (To appear)
+[![DeepPHiC Software](icons16/html-icon.png)](https://github.com/lichen-lab/DeepPHiC)
 <!-- * 53 * -->
 
 
