@@ -20,6 +20,10 @@ description: Li Chen's publications
 
 #### 2023
 
+Agarwal A<sup>&dagger;</sup>, Fengdi Zhao<sup>&dagger;</sup>, Yuchao Jiang **Chen L<sup>&sect;</sup>** (2023) TIVAN-indel: A computational framework for annotating and predicting noncoding regulatory small insertions and deletions [Bioinformatics](https://academic.oup.com/bioinformatics/)
+[![DeepPHiC Software](icons16/html-icon.png)](https://github.com/lichen-lab/TIVAN-indel)
+<!-- * 54 * -->
+
 Agarwal A<sup>&dagger;</sup>, **Chen L<sup>&sect;</sup>** (2023) DeepPHiC: Predicting promoter-centered chromatin interactions using a novel deep learning approach [Bioinformatics](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btac801/6887158)
 [![DeepPHiC Software](icons16/html-icon.png)](https://github.com/lichen-lab/DeepPHiC)
 <!-- * 53 * -->
