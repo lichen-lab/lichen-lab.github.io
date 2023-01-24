@@ -20,7 +20,7 @@ description: Li Chen's publications
 
 #### 2023
 
-Agarwal A<sup>&dagger;</sup>, Fengdi Zhao<sup>&dagger;</sup>, Yuchao Jiang **Chen L<sup>&sect;</sup>** (2023) TIVAN-indel: A computational framework for annotating and predicting noncoding regulatory small insertions and deletions [Bioinformatics](https://academic.oup.com/bioinformatics/)
+Agarwal A<sup>&dagger;</sup>, Zhao F<sup>&dagger;</sup>, Jiang Y, **Chen L<sup>&sect;</sup>** (2023) TIVAN-indel: A computational framework for annotating and predicting noncoding regulatory small insertions and deletions [Bioinformatics](https://academic.oup.com/bioinformatics/)
 [![DeepPHiC Software](icons16/html-icon.png)](https://github.com/lichen-lab/TIVAN-indel)
 <!-- * 54 * -->
 
