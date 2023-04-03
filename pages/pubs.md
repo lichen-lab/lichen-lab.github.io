@@ -20,6 +20,9 @@ description: Li Chen's publications
 
 #### 2023
 
+Guan PY, Lee JS, Wang L, Lin KZ, Mei W, **Chen L**, Jiang Y (2023) Destin2: Integrative and cross-modality analysis of single-cell chromatin accessibility data [Frontiers in Genetics](https://www.frontiersin.org/articles/10.3389/fgene.2023.1089936/full)
+<!-- * 55 * -->
+
 Agarwal A<sup>&dagger;</sup>, Zhao F<sup>&dagger;</sup>, Jiang Y, **Chen L<sup>&sect;</sup>** (2023) TIVAN-indel: A computational framework for annotating and predicting noncoding regulatory small insertions and deletions [Bioinformatics](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btad060/7008323)[![TIVAN-indel Software](icons16/html-icon.png)](https://github.com/lichen-lab/TIVAN-indel)
 <!-- * 54 * -->
 
