@@ -51,6 +51,9 @@ Here is a list of software I developed.
 * <a name="TLVar"></a>[TLVar](https://github.com/lichen-lab/TLVar)
 : Exploiting deep transfer learning for the prediction of functional noncoding variants using genomic sequence
 
+* <a name="TLVar"></a>[TLVar-indel](https://github.com/lichen-lab/TLVar-indel)
+: Exploiting deep transfer learning for the prediction of functional noncoding small insertation/deletion using genomic sequence
+
 * <a name="MTAE"></a>[MTAE](https://github.com/lichen-lab/MTAE)
 : Multi-task deep autoencoder improves the prediction for Alzheimer's disease progression using temporal DNA methylation data in peripheral blood
 
