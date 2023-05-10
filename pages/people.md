@@ -34,9 +34,6 @@ Xin Ma, PhD student in Biostatistics
 
 ###  MS students 
 
-Aman Agarwal, MS student in Computer Science
-
-Toluwanimi Shorinwa, MS in Electronic Computer Engineering
 
 <br/>
 
@@ -50,14 +47,18 @@ Toluwanimi Shorinwa, MS in Electronic Computer Engineering
     
 ###  MS
 
-
-
 <li> <strong>Gaoxiang Li</strong>, MS in Computer Science at Auburn University, 2020. 
 <strong>Current position</strong>: Ph.D. student in the Department of Computer Science, Texas Tech University. </li>
+
+<li> <strong>Toluwanimi Shorinwa </strong>, MS in  at Purdue University, 2023. 
+<strong>Current position</strong>: Ph.D. student in the Department of Electrical and Computer Engineering, Texas A&M University. </li>
 
 
 ###  Research Assistant
 
+<li> <strong>Aman Agarwal</strong>, MS in Computer Science at Indiana University, 2023. 
+<strong>Current position</strong>: R&D Engineer at Synopsys.  
+    
 <li> <strong>Ziqian Bi</strong>, MS in Computer Science at Indiana University, 2021. 
 <strong>Current position</strong>: Ph.D. student in the Department of Computer Science, Indiana University.  
 
