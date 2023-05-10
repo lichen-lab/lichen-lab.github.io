@@ -34,7 +34,7 @@ description: I am an Associate Professor of Biostatistics at University of Flori
 	</div>
 
 
-I am an Associate Professor of Biostatistics at University of Florida. I obtained my PhD in [Computer Science and Informatics](http://www.cs.emory.edu/) from Emory University, and a MS in [Biostatistics](http://www.jhsph.edu/departments/biostatistics/index.html) and another MS in [Computer Science](https://www.cs.jhu.edu/) from the Johns Hopkins University.
+I am an Associate Professor of Biostatistics at University of Florida. I obtained my PhD in [Computer Science and Informatics](http://www.cs.emory.edu/) from Emory University, where I worked with [Dr. Zhaohui Steve Qin] (https://sph.emory.edu/faculty/profile/index.php?FID=zhaohui%20%20steve%20-qin-8697) and [Dr. Hao Wu] (https://www.haowulab.org/), and closely collaborated with [Dr. Peng Jin] (https://www.pengjinlab.org/) and [Dr. Bing Yao] (http://www.yao-lab.org/). I also received a MS in [Biostatistics](http://www.jhsph.edu/departments/biostatistics/index.html) and another MS in [Computer Science](https://www.cs.jhu.edu/) from the Johns Hopkins University, where I worked with [Dr. Hongkai Ji] (https://jilab.org/).
 
 ### Opening
 My lab now has multiple openings for PhD/MS students and one opening for Postdoc. Interested candidates please refer the [Opening](https://lichen-lab.github.io//pages/opening.html) for how to apply.
@@ -57,6 +57,7 @@ Develop computational methods for annotating and analyzing functional variants (
 	 <a href="https://academic.oup.com/bib/advance-article-abstract/doi/10.1093/bib/bbab189/6279833?redirectedFrom=fulltext">WEVar</a>;
 	 <a href="https://pubmed.ncbi.nlm.nih.gov/35389435/">TLVar</a>;
 	 <a href="https://pubmed.ncbi.nlm.nih.gov/36271868/">DeepPerVar</a>]
+	  <a href="https://pubmed.ncbi.nlm.nih.gov/36707993/">TIVAN-indel</a>]
 
 - **Metagenomics**:
 Develop statistical methods for analyzing microbiome data
