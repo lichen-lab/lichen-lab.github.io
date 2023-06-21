@@ -24,9 +24,13 @@ Li Chen, Principal Investigator
 
 ###  PhD students 
 
-Fengdi Zhao, PhD student in Biostatistics
+Fengdi Zhao, PhD student in Biostatistics (2021-now)
 
-Xin Ma, PhD student in Biostatistics
+Xin Ma, PhD student in Biostatistics (2022-now)
+
+Weijia Jin, PhD student in Biostatistics (Starting in 2023)
+
+Yi Xia, PhD student in Biostatistics (Starting in 2023)
 
 
 <br/>
@@ -34,6 +38,13 @@ Xin Ma, PhD student in Biostatistics
 
 ###  MS students 
 
+Sai Ritesh Thela, MS student in Computer Science
+
+<br/>
+
+###  BS students 
+
+Javlon Nizomov, BS of Public Health
 
 <br/>
 
