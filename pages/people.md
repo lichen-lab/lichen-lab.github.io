@@ -24,13 +24,13 @@ Li Chen, Principal Investigator
 
 ###  PhD students 
 
-Fengdi Zhao, PhD student in Biostatistics (2021-now)
+Fengdi Zhao, PhD student in Biostatistics (2021-now), BS University of Washington, MS University of North Carolina
 
-Xin Ma, PhD student in Biostatistics (2022-now)
+Xin Ma, PhD student in Biostatistics (2022-now), BS Southwestern University of Finance and Economics， MS George Washington University
 
-Weijia Jin, PhD student in Biostatistics (Starting in 2023)
+Weijia Jin, PhD student in Biostatistics (2023-now), BS Peking University, MS University of Michigan
 
-Yi Xia, PhD student in Biostatistics (Starting in 2023)
+Yi Xia, PhD student in Biostatistics (2023-now), BS Lanzhou University, MS Georgetown University
 
 
 <br/>
@@ -62,7 +62,7 @@ Javlon Nizomov, BS of Public Health
 <strong>Current position</strong>: Ph.D. student in the Department of Computer Science, Texas Tech University. </li>
 
 <li> <strong>Toluwanimi Shorinwa </strong>, MS in Purdue University, 2023. 
-<strong>Current position</strong>: Ph.D. student in the Department of Electrical and Computer Engineering, Texas A&M University. </li>
+<strong>Current position</strong>: Electronics System Engineer at Ummins </li>
 
 
 ###  Research Assistant
