@@ -10,13 +10,27 @@ Here is a list of software I developed.
 
 
 ### Functional noncoding variants prioritization:
-•	traseR (http://bioconductor.org/packages/devel/bioc/html/traseR.html): An R package for performing GWAS trait-associated SNP enrichment analyses in given genomic intervals. 
-•	DIVAN (https://sites.google.com/site/emorydivan/): An R pipeline for prioritizing disease-specific noncoding risk variants in 45 diseases/traits using genome-wide precomputed functional scores.
-•	WEVar (https://github.com/lichen-lab/WEVar): A Python package for improving the prediction for noncoding regulatory variants using a weighted ensemble approach by integrating precomputed functional scores from multiple existing methods.
-•	TIVAN (https://github.com/lichen-lab/TIVAN): An R pipeline for predicting noncoding regulatory variants in 44 tissues/cell types.
-•	TIVAN-indel (https://github.com/lichen-lab/TIVAN-indel): A Python package for implementing a novel computational method for predicting noncoding regulatory small insertions and deletions.
-•	TLVar (https://github.com/lichen-lab/TLVar): A Python package for implementing a deep transfer learning approach to improve the prediction for experimentally validated regulatory variants.
-•	DeepPerVar (https://github.com/lichen-lab/DeepPerVar): A Python package for implementing a multi-modal deep learning model to predict individual-level noncoding functional variants.
+
+* <a name="traseR"></a>[traseR](http://bioconductor.org/packages/release/bioc/html/traseR.html)
+: An R package for performing GWAS trait-associated SNP enrichment analyses in given genomic intervals.
+
+* <a name="DIVAN"></a>[DIVAN](https://sites.google.com/site/emorydivan/)
+: An R pipeline for prioritizing disease-specific noncoding risk variants in 45 diseases/traits using genome-wide precomputed functional scores.
+
+* <a name="WEVar"></a>[WEVar](https://github.com/lichen-lab/WEVar)
+: A Python package for improving the prediction for noncoding regulatory variants using a weighted ensemble approach by integrating precomputed functional scores from multiple existing methods.
+
+* <a name="TIVAN"></a>[TIVAN](https://github.com/lichen-lab/TIVAN)
+: An R pipeline for predicting noncoding regulatory variants in 44 tissues/cell types.
+
+* <a name="TIVAN-indel"></a>[TIVAN-indel](https://github.com/lichen-lab/TIVAN-indel)
+: A Python package for implementing a novel computational method for predicting noncoding regulatory small insertions and deletions.
+
+* <a name="TLVar"></a>[TLVar](https://github.com/lichen-lab/TLVar)
+: A Python package for implementing a deep transfer learning approach to improve the prediction for experimentally validated regulatory variants.
+
+* <a name="DeepPerVar"></a>[DeepPerVar](https://github.com/lichen-lab/DeepPerVar)
+: A Python package for implementing a multi-modal deep learning model to predict individual-level noncoding functional variants.
 
 ---
 
