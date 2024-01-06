@@ -35,12 +35,24 @@ Here is a list of software I developed.
 ---
 
 ### Microbiome data analysis:
-•	GMPR (https://github.com/lichen-lab/GMPR): An R package for normalizing zero-inflated count data particular microbiome sequencing data.
-•	glmgraph (http://cran.r-project.org/web/packages/glmgraph/index.html): An R package for implementing sparse generalized linear models with graph-constrained regularization.
-•	SICS (https://github.com/lichen-lab/SICS): An R package for implementing sparse generalized linear models with encouraging local smoothing in a phylogeny-constrained regularization for predictive modeling of microbiome data.
-•	glmmTree (https://github.com/lichen-lab/glmmTree): An R package for implementing a phylogenetic tree-based generalized mixed effects model for predictive modeling of microbiome data.
-•	powmic (https://github.com/lichen-lab/powmic): An R package for performing power assessment in microbiome sequencing data.
-•	MDeep (https://github.com/lichen-lab/MDeep): A Python package for implementing a novel deep learning model to predict phenotype using microbiome data by embedding the phylogenetic tree in the deep learning model.
+
+* <a name="GMPR"></a>[GMPR](https://github.com/lichen-lab/GMPR)
+: An R package for normalizing zero-inflated count data particular microbiome sequencing data.
+
+* <a name="glmgraph"></a>[glmgraph](http://cran.r-project.org/web/packages/glmgraph/index.html)
+: An R package for implementing sparse generalized linear models with graph-constrained regularization.
+
+* <a name="SICS"></a>[SICS](https://github.com/lichen-lab/SICS)
+: An R package for implementing sparse generalized linear models with encouraging local smoothing in a phylogeny-constrained regularization for predictive modeling of microbiome data.
+
+* <a name="glmmTree"></a>[SICS](https://github.com/lichen-lab/glmmTree)
+: An R package for implementing a phylogenetic tree-based generalized mixed effects model for predictive modeling of microbiome data.
+
+* <a name="powmic"></a>[powmic](https://github.com/lichen-lab/powmic)
+: An R package for performing power assessment in microbiome sequencing data.
+
+* <a name="MDeep"></a>[powmic](https://github.com/lichen-lab/MDeep)
+: A Python package for implementing a novel deep learning model to predict phenotype using microbiome data by embedding the phylogenetic tree in the deep learning model.
 
 ---
 
