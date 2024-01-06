@@ -51,20 +51,33 @@ Here is a list of software I developed.
 * <a name="powmic"></a>[powmic](https://github.com/lichen-lab/powmic)
 : An R package for performing power assessment in microbiome sequencing data.
 
-* <a name="MDeep"></a>[powmic](https://github.com/lichen-lab/MDeep)
+* <a name="MDeep"></a>[MDeep](https://github.com/lichen-lab/MDeep)
 : A Python package for implementing a novel deep learning model to predict phenotype using microbiome data by embedding the phylogenetic tree in the deep learning model.
 
 ---
 
 ### Other multi-omics data analysis (single-cell genomics, epigenetics, noncoding RNA):
 
-•	BAMMSC (https://github.com/lichen-lab/BAMMSC): An R package for implementing a novel Bayesian mixture model to cluster droplet-based single cell transcriptomic data from multiple individuals.
-•	DeepPHiC (https://github.com/lichen-lab/DeepPHiC): A Python package for implementing a novel multi-task and transfer deep learning model to predicting promoter-centered chromatin interactions using promoter-centered Hi-C data.
-•	circMeta (https://github.com/lichen-lab/circMeta): An R package for performing genomic feature annotation and implementing a novel Bayesian hierarchical model to detect differential expression analysis of circular RNAs.
-•	tfLDA (https://github.com/lichen-lab/tfLDA): An R package for applying state-of-the-art topic models to decipher the combinatorial binding events of multiple TFs by integrating multiple ChIP- Seq datasets.
-•	MTAE (https://github.com/lichen-lab/MTAE): A Python package for implementing a novel multi-task deep autoencoder to predict AD progression using longitudinal DNA methylation data in peripheral blood.
-•	ChIPComp (http://bioconductor.org/packages/devel/bioc/html/ChIPComp.html): An R package for implementing a novel Bayesian hierarchical model for quantitative comparison of multiple ChIP-seq datasets.
-•	hmChIP (http://jilab.biostat.jhsph.edu/database/cgi-bin/hmChIP.pl): A web server and database for cell type-specific ChIP-seq and ChIP-chip data query.
+* <a name="BAMMSC"></a>[BAMMSC](https://github.com/lichen-lab/BAMMSC)
+: An R package for implementing a novel Bayesian mixture model to cluster droplet-based single cell transcriptomic data from multiple individuals.
+
+* <a name="DeepPHiC"></a>[DeepPHiC](https://github.com/lichen-lab/DeepPHiC)
+:  A Python package for implementing a novel multi-task and transfer deep learning model to predicting promoter-centered chromatin interactions using promoter-centered Hi-C data.
+
+* <a name="circMeta"></a>[circMeta](https://github.com/lichen-lab/circMeta)
+:  An R package for performing genomic feature annotation and implementing a novel Bayesian hierarchical model to detect differential expression analysis of circular RNAs.
+
+* <a name="tfLDA"></a>[tfLDA](https://github.com/lichen-lab/tfLDA)
+: An R package for applying state-of-the-art topic models to decipher the combinatorial binding events of multiple TFs by integrating multiple ChIP- Seq datasets.
+
+* <a name="MTAE"></a>[MTAE](https://github.com/lichen-lab/MTAE)
+: A Python package for implementing a novel multi-task deep autoencoder to predict AD progression using longitudinal DNA methylation data in peripheral blood.
+
+* <a name="ChIPComp"></a>[ChIPComp](https://bioconductor.org/packages/release/bioc/html/ChIPComp.html)
+: An R package for implementing a novel Bayesian hierarchical model for quantitative comparison of multiple ChIP-seq datasets.
+
+* <a name="hmChIP"></a>[hmChIP](http://jilab.biostat.jhsph.edu/database/cgi-bin/hmChIP.pl)
+: A web server and database for cell type-specific ChIP-seq and ChIP-chip data query.
 
 
 ![image](https://github.com/lichen-lab/lichen-lab.github.io/assets/29525389/c3eddfc1-1887-45a1-8f20-2f2bd1f5afef)
