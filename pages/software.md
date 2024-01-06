@@ -80,7 +80,6 @@ Here is a list of software I developed.
 : A web server and database for cell type-specific ChIP-seq and ChIP-chip data query.
 
 
-![image](https://github.com/lichen-lab/lichen-lab.github.io/assets/29525389/c3eddfc1-1887-45a1-8f20-2f2bd1f5afef)
 
 
 
