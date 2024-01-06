@@ -45,7 +45,7 @@ Here is a list of software I developed.
 * <a name="SICS"></a>[SICS](https://github.com/lichen-lab/SICS)
 : An R package for implementing sparse generalized linear models with encouraging local smoothing in a phylogeny-constrained regularization for predictive modeling of microbiome data.
 
-* <a name="glmmTree"></a>[SICS](https://github.com/lichen-lab/glmmTree)
+* <a name="glmmTree"></a>[glmmTree](https://github.com/lichen-lab/glmmTree)
 : An R package for implementing a phylogenetic tree-based generalized mixed effects model for predictive modeling of microbiome data.
 
 * <a name="powmic"></a>[powmic](https://github.com/lichen-lab/powmic)
