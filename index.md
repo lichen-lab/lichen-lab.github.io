@@ -1,6 +1,6 @@
 ---
 layout: page
-description: I am an Associate Professor of Biostatistics at University of Florida.
+description: I am an tenured Associate Professor of Biostatistics at University of Florida.
 ---
 
 <div class="navbar">
@@ -67,8 +67,12 @@ Develop statistical methods for analyzing microbiome data
 	<a href="https://academic.oup.com/bib/advance-article-abstract/doi/10.1093/bib/bbaa073/5835556?redirectedFrom=fulltext">MDeep</a>]
 	
 - **Single-cell genomics**:
-Develop statistical methods for clustering single-cell data
-	- Clustering scRNA data.[<a href="https://www.nature.com/articles/s41467-019-09639-3">BAMMSC</a>]
+Develop statistical methods for cell type identification using scRNA-seq data 
+	- BAMMSC.[<a href="https://www.nature.com/articles/s41467-019-09639-3">BAMMSC</a>]
+
+Develop statistical methods for differential accessbility analysis using scMuti-omics data (scRNA-seq+scATAC-seq)
+	- scaDA.[<a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011854">BAMMSC</a>]
+
 
 - **Transcriptomics**:
 Develop statistical methods for analyzing non-coding RNAs
