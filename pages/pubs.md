@@ -18,6 +18,12 @@ description: Li Chen's publications
 
 **Key**: &sect; indicates (co-)corresponding author; &dagger; indicates advisee; ^indicates (co-) first author	
 
+#### 2024
+
+Zhao F, Ma X, Yao B, Lu Q, **Chen L** (2024) scaDA: A novel statistical method for differential analysis of single-cell chromatin accessibility sequencing data [Plos Computational Biology](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011854)[![scaDA Software](icons16/html-icon.png)](https://github.com/lichen-lab/scaDA)
+<!-- * 55 * -->
+
+
 #### 2023
 
 Guan PY, Lee JS, Wang L, Lin KZ, Mei W, **Chen L**, Jiang Y (2023) Destin2: Integrative and cross-modality analysis of single-cell chromatin accessibility data [Frontiers in Genetics](https://www.frontiersin.org/articles/10.3389/fgene.2023.1089936/full)
