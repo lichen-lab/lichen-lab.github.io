@@ -67,11 +67,10 @@ Develop statistical methods for analyzing microbiome data
 	<a href="https://academic.oup.com/bib/advance-article-abstract/doi/10.1093/bib/bbaa073/5835556?redirectedFrom=fulltext">MDeep</a>]
 	
 - **Single-cell genomics**:
-Develop statistical methods for cell type identification using scRNA-seq data
-	- [<a href="https://www.nature.com/articles/s41467-019-09639-3">BAMMSC</a>]
 Develop statistical methods for differential accessbility analysis using scMuti-omics data (scRNA-seq+scATAC-seq)
 	- [<a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011854">scaDA</a>]
-
+Develop statistical methods for cell type identification using scRNA-seq data
+	- [<a href="https://www.nature.com/articles/s41467-019-09639-3">BAMMSC</a>]
 
 - **Transcriptomics**:
 Develop statistical methods for analyzing non-coding RNAs
