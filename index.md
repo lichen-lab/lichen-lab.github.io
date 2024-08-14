@@ -42,14 +42,13 @@ My lab now has multiple openings for PhD/MS students and one opening for Postdoc
 ### Research
 My lab is currently funded by NIH NIGMS. My lab's research focuses on developing statistical and informatics methods for analyzing of multi-omics data. Projects include but not limited to 
 
-- **Epigenomics**: 
-Develop statistical methods for differential accessbility analysis using scMuti-omics data (scRNA-seq+scATAC-seq)
-	- scaDA.[<a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011854">scaDA</a>]
-Develop statistical methods for cell type identification using scRNA-seq data
-	- BAMMSC.[<a href="https://www.nature.com/articles/s41467-019-09639-3">BAMMSC</a>]
+- **Single-cell genomics**:
+Develop statistical methods and tools for analyzing single-cell genomics data
+	- Differential accessbility analysis using scMultiome data (scRNA-seq+scATAC-seq).[<a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011854">scaDA</a>]
+	- Cell type identification using scRNA-seq data.[<a href="https://www.nature.com/articles/s41467-019-09639-3">BAMMSC</a>]
 
 - **Epigenomics**: 
-Develop statistical methods and database for analyzing epigenomic data
+Develop statistical methods and tools for analyzing epigenomic data
 	- Differential binding using multi-condition ChIP-seq data. [<a href="https://academic.oup.com/bioinformatics/article/31/12/1889/214643">ChIPComp</a>]
 	- TF regulatory module by integrating large-scale ChIP-seq data. [<a href="https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btz975/5695705">tfLDA</a>]
 	- Database and web server. [<a href="https://academic.oup.com/bioinformatics/article/27/10/1447/260530">hmChIP</a>]
