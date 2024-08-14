@@ -39,7 +39,6 @@ Zhang Yutao, PhD student in Biostatistics (2024-now), BS Harbin Engineering Univ
 
 ###  MS students 
 
-Sai Ritesh Thela, MS student in Computer Science
 
 <br/>
 
@@ -67,6 +66,12 @@ Javlon Nizomov, BS of Public Health
 
 
 ###  Research Assistant
+
+<li> <strong> Sai Ritesh Thela, MS student in Computer Science at UF, 2024.
+<strong>Current position</strong>: PhD student in Department of Computer Science, Arizona State University. 
+
+<li> <strong> Javlon Nizomov, BS of Public Health at UF, 2024.
+<strong>Current position</strong>: Head Engineer at Linex Interactive.  
 
 <li> <strong>Aman Agarwal</strong>, MS in Computer Science at Indiana University, 2023. 
 <strong>Current position</strong>: R&D Engineer at Synopsys.  
