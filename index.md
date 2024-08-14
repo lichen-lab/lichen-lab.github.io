@@ -42,7 +42,7 @@ My lab now has multiple openings for PhD/MS students and one opening for Postdoc
 ### Research
 My lab is currently funded by NIH NIGMS. My lab's research focuses on developing statistical and informatics methods for analyzing of multi-omics data. Projects include but not limited to 
 
-- **Single-cell genomics**:
+- **Epigenomics**: 
 Develop statistical methods for differential accessbility analysis using scMuti-omics data (scRNA-seq+scATAC-seq)
 	- scaDA.[<a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011854">scaDA</a>]
 Develop statistical methods for cell type identification using scRNA-seq data
