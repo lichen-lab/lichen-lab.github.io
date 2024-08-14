@@ -45,8 +45,7 @@ My lab is currently funded by NIH NIGMS. My lab's research focuses on developing
 - **Single-cell genomics**:
 Develop statistical methods for differential accessbility analysis using scMuti-omics data (scRNA-seq+scATAC-seq)
 	- scaDA. [<a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011854">scaDA</a>]
-Develop statistical methods for cell type identification using scRNA-seq data
-    	- BAMMSC. [<a href="https://www.nature.com/articles/s41467-019-09639-3">BAMMSC</a>]
+	- BAMMSC. [<a href="https://www.nature.com/articles/s41467-019-09639-3">BAMMSC</a>]
 
 - **Epigenomics**: 
 Develop statistical methods and database for analyzing epigenomic data
