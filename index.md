@@ -44,11 +44,11 @@ My lab is currently funded by NIH NIGMS. My lab's research focuses on developing
 
 - **Epigenomics**: 
 Develop statistical methods and database for analyzing epigenomic data
-	- Differential binding. [<a href="https://academic.oup.com/bioinformatics/article/31/12/1889/214643">ChIPComp</a>]
-	- TF regulatory module. [<a href="https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btz975/5695705">tfLDA</a>]
+	- Differential binding using multi-condition ChIP-seq data. [<a href="https://academic.oup.com/bioinformatics/article/31/12/1889/214643">ChIPComp</a>]
+	- TF regulatory module by integrating large-scale ChIP-seq data. [<a href="https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btz975/5695705">tfLDA</a>]
 	- Database and web server. [<a href="https://academic.oup.com/bioinformatics/article/27/10/1447/260530">hmChIP</a>]
-	- Predictive modeling of disease status. [<a href="https://www.sciencedirect.com/science/article/pii/S2001037022004639?via%3Dihub">MTAE</a>]
-	- Predicting 3D chromatin interaction. [<a href="https://www.biorxiv.org/content/10.1101/2022.05.24.493333v1">DeepPHiC</a>]
+	- Predictive modeling of disease progressing using DNA methylation data. [<a href="https://www.sciencedirect.com/science/article/pii/S2001037022004639?via%3Dihub">MTAE</a>]
+	- Predicting 3D chromatin interaction using Hi-C data. [<a href="https://www.biorxiv.org/content/10.1101/2022.05.24.493333v1">DeepPHiC</a>]
 
 - **Genetics**:
 Develop computational methods for annotating and analyzing functional variants (GWAS SNPs, cis-eQTL SNVs) by utilizing large-scale multi-omics profiles
