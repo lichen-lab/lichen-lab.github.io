@@ -20,7 +20,7 @@ description: Li Chen's publications
 
 #### 2024
 
-Xin M<sup>&dagger;</sup>, Thela S<sup>&dagger;</sup>, Zhao F<sup>&dagger;</sup>, Yao B, Wen Z, Jin P, Zhao, J, **Chen L<sup>&sect;</sup>** (2024) Deep5hmC: Predicting genome-wide 5-Hydroxymethylcytosine landscape via a multimodal deep learning model [Bioinformatics](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011854)[![Deep5hmC Software](icons16/html-icon.png)](https://github.com/lichen-lab/Deep5hmC)
+Ma X<sup>&dagger;</sup>, Thela S<sup>&dagger;</sup>, Zhao F<sup>&dagger;</sup>, Yao B, Wen Z, Jin P, Zhao, J, **Chen L<sup>&sect;</sup>** (2024) Deep5hmC: Predicting genome-wide 5-Hydroxymethylcytosine landscape via a multimodal deep learning model [Bioinformatics](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011854)[![Deep5hmC Software](icons16/html-icon.png)](https://github.com/lichen-lab/Deep5hmC)
 <!-- * 56 * -->
 
 
