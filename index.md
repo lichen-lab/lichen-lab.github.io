@@ -22,7 +22,7 @@ description: I am an tenured Associate Professor of Biostatistics at University 
             <a href="https://directory.ufhealth.org/chen-li-1">Associate Professor</a><br/>
 		<a href="https://biostat.ufl.edu/">Department of Biostatistics</a><br/>
 		 <a href="https://www.ufl.edu/">University of Florida</a><br/>
- 2004 Mowry Road, 5th Floor CTRB, 5211 RM  <br/>
+ 2004 Mowry Road, 5th Floor CTRB, 3124 RM  <br/>
     Gainesville, FL 32611-7450 <br/>
             USA<br/>
             <div id="hide_email">
