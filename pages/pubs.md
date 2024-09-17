@@ -21,7 +21,7 @@ description: Li Chen's publications
 #### 2024
 
 Yuan Z, Pei G, Shan Z, Xiao F, Cai G, **Chen L**, Lu Q (2024) Multi-modal Functional Deep Learning for Multi-omics Data
- [Briefings in Bioinformatics] (https://academic.oup.com/bib/article/25/5/bbae448/7758757)(icons16/html-icon.png)
+ [Briefings in Bioinformatics](https://academic.oup.com/bib/article/25/5/bbae448/7758757)
 <!-- * 57 * -->
 
 Ma X<sup>&dagger;</sup>, Thela S<sup>&dagger;</sup>, Zhao F<sup>&dagger;</sup>, Yao B, Wen Z, Jin P, Zhao, J, **Chen L<sup>&sect;</sup>** (2024) Deep5hmC: Predicting genome-wide 5-Hydroxymethylcytosine landscape via a multimodal deep learning model [Bioinformatics](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btae528/7743210?rss=1)[![Deep5hmC Software](icons16/html-icon.png)](https://github.com/lichen-lab/Deep5hmC)
