@@ -20,6 +20,13 @@ description: Li Chen's publications
 
 #### 2024
 
+Hou T, Shen X, Zhang S, Liang M, **Chen L**, Lu Q (2024) AIGen: An Artificial Intelligence Software for Complex Genetic Data Analysis [Briefings in Bioinformatics](https://academic.oup.com/bib/)
+<!-- * 60 * -->
+
+Zhao F<sup>&dagger;</sup>, Li Y<sup>&dagger;</sup>, **Chen L<sup>&sect;</sup>** **Yao B<sup>&sect;</sup>**(2024) MPRAVarDB: an online database and web server for exploring regulatory effects of genetic variants [Communications Biology](https://www.nature.com/commsbio/)[![circMeta2 Software](icons16/html-icon.png)](https://github.com/lichen-lab/circMeta2)
+<!-- * 59 * -->
+
+
 Jin W<sup>&dagger;</sup>, Xia Y<sup>&dagger;</sup>, Nizomov J<sup>&dagger;</sup>, Liu Y, Li Z, Lu,Q, **Chen L<sup>&sect;</sup>** (2024) MPRAVarDB: an online database and web server for exploring regulatory effects of genetic variants [Bioinformatics](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btae578/7777162)[![MPRAVarDB Software](icons16/html-icon.png)](https://mpravardb.rc.ufl.edu/)
 <!-- * 58 * -->
 
