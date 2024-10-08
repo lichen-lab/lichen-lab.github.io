@@ -23,7 +23,7 @@ description: Li Chen's publications
 Hou T, Shen X, Zhang S, Liang M, **Chen L**, Lu Q (2024) AIGen: An Artificial Intelligence Software for Complex Genetic Data Analysis [Briefings in Bioinformatics](https://academic.oup.com/bib/)
 <!-- * 60 * -->
 
-Zhao F<sup>&dagger;</sup>, Li Y<sup>&dagger;</sup>, **Chen L<sup>&sect;</sup>** **Yao B<sup>&sect;</sup>**(2024) Identification of brain region-specific landscape and functions of clustered circRNAs in Alzheimer’s disease using circMeta2 [Communications Biology](https://www.nature.com/commsbio/)[![circMeta2 Software](icons16/html-icon.png)](https://github.com/lichen-lab/circMeta2)
+Zhao F<sup>&dagger;</sup>, Li Y<sup>&dagger;</sup>, **Chen L<sup>&sect;</sup>**, **Yao B<sup>&sect;</sup>**(2024) Identification of brain region-specific landscape and functions of clustered circRNAs in Alzheimer’s disease using circMeta2 [Communications Biology](https://www.nature.com/commsbio/)[![circMeta2 Software](icons16/html-icon.png)](https://github.com/lichen-lab/circMeta2)
 <!-- * 59 * -->
 
 
