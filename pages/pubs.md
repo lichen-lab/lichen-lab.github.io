@@ -20,6 +20,10 @@ description: Li Chen's publications
 
 #### 2024
 
+Wang F, Li Y, Shen H, Martinez-Feduchi P, Ji X, Teng P, Krishnakumar S, Hu J, **Chen L**, Feng Y, Yao B (2024) Identification of pathological pathways centered on circRNA dysregulation in association with irreversible progression of Alzheimer’s disease [Genome Medicine](https://genomemedicine.biomedcentral.com/)
+<!-- * 61 * -->
+
+
 Hou T, Shen X, Zhang S, Liang M, **Chen L**, Lu Q (2024) AIGen: An Artificial Intelligence Software for Complex Genetic Data Analysis [Briefings in Bioinformatics](https://academic.oup.com/bib/)
 <!-- * 60 * -->
 
