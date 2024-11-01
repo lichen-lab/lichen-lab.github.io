@@ -62,7 +62,8 @@ Develop computational methods for annotating and analyzing functional variants (
 	 <a href="https://academic.oup.com/bib/advance-article-abstract/doi/10.1093/bib/bbab189/6279833?redirectedFrom=fulltext">WEVar</a>;
 	 <a href="https://pubmed.ncbi.nlm.nih.gov/35389435/">TLVar</a>;
 	 <a href="https://pubmed.ncbi.nlm.nih.gov/36271868/">DeepPerVar</a>;
-	  <a href="https://pubmed.ncbi.nlm.nih.gov/36707993/">TIVAN-indel</a>]
+	  <a href="https://pubmed.ncbi.nlm.nih.gov/36707993/">TIVAN-indel</a>;
+   	  <a href="https://academic.oup.com/bioinformatics/article/40/10/btae578/7777162?login=false">MPRAVarDB</a>]
 
 - **Metagenomics**:
 Develop statistical methods for analyzing microbiome data
@@ -73,4 +74,5 @@ Develop statistical methods for analyzing microbiome data
    
 - **Transcriptomics**:
 Develop statistical methods for analyzing non-coding RNAs
-	- Differential expression analysis. [<a href="https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btz606/5543088">circMeta</a>]
+	- Differential expression analysis for circular RNA for small biological replicates. [<a href="https://academic.oup.com/bioinformatics/article/36/2/539/5543088">circMeta</a>]
+ - 	- Differential expression analysis for circular RNA for large-scale population study. [<a href="https://www.nature.com/articles/s42003-024-07060-1">circMeta2</a>]
