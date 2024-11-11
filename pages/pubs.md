@@ -20,7 +20,7 @@ description: Li Chen's publications
 
 #### 2024
 
-Wang F, Li Y, Shen H, Martinez-Feduchi P, Ji X, Teng P, Krishnakumar S, Hu J, **Chen L**, Feng Y, Yao B (2024) Identification of pathological pathways centered on circRNA dysregulation in association with irreversible progression of Alzheimer’s disease [Genome Medicine](https://genomemedicine.biomedcentral.com/)
+Wang F, Li Y, Shen H, Martinez-Feduchi P, Ji X, Teng P, Krishnakumar S, Hu J, **Chen L**, Feng Y, Yao B (2024) Identification of pathological pathways centered on circRNA dysregulation in association with irreversible progression of Alzheimer’s disease [Genome Medicine](https://link.springer.com/article/10.1186/s13073-024-01404-6?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20241111&utm_content=10.1186/s13073-024-01404-6)
 <!-- * 61 * -->
 
 
