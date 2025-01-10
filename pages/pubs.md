@@ -18,6 +18,10 @@ description: Li Chen's publications
 
 **Key**: &sect; indicates (co-)corresponding author; &dagger; indicates advisee; ^indicates (co-) first author	
 
+#### 2025
+Brothwell JA, Wei YH, Wang J, Guo T, Zhang C, Fortney KR, Duplantier R, **Chen L**, Batteiger TA, Kaplan MH, Spinola SM, Cao S. Single cell and spatial transcriptomic profiling of H. ducreyi infection in human volunteers. mBio. 2025.
+
+
 #### 2024
 
 Wang F, Li Y, Shen H, Martinez-Feduchi P, Ji X, Teng P, Krishnakumar S, Hu J, **Chen L**, Feng Y, Yao B (2024) Identification of pathological pathways centered on circRNA dysregulation in association with irreversible progression of Alzheimer’s disease [Genome Medicine](https://link.springer.com/article/10.1186/s13073-024-01404-6?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20241111&utm_content=10.1186/s13073-024-01404-6)
