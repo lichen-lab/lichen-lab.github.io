@@ -19,8 +19,8 @@ description: Li Chen's publications
 **Key**: &sect; indicates (co-)corresponding author; &dagger; indicates advisee; ^indicates (co-) first author	
 
 #### 2025
-Brothwell JA, Wei YH, Wang J, Guo T, Zhang C, Fortney KR, Duplantier R, **Chen L**, Batteiger TA, Kaplan MH, Spinola SM, Cao S. Single cell and spatial transcriptomic profiling of H. ducreyi infection in human volunteers. mBio. 2025.
-
+Brothwell JA, Wei YH, Wang J, Guo T, Zhang C, Fortney KR, Duplantier R, **Chen L**, Batteiger TA, Kaplan MH, Spinola SM, Cao S. Single cell and spatial transcriptomic profiling of H. ducreyi infection in human volunteers. [mBio] (https://journals.asm.org/doi/10.1128/mbio.03885-24) 
+<!-- * 62 * -->
 
 #### 2024
 
