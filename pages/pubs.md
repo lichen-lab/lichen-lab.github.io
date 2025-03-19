@@ -20,7 +20,7 @@ description: Li Chen's publications
 
 #### 2025
 
-Ma, X., Shedlock, C. J., Medina, T., Ribas, R. A., Clarke, H. A., Hawkin- son, T. R., Dande, P. K., Golamari, H.K.R, Wu, L., Ziani B.E., Burke, S. N., Merritt, M. E., Kooi, C. W. V., Gentry, M. S., Yadav, N. N., **Chen L<sup>&sect;</sup>**, & **Sun R.C.<sup>&sect;</sup>** (2025). AI-driven framework to map the brain metabolome in three dimensions. [Nature Metabolism] (https://doi.org/10.1038/s42255-025-01242-9)
+Ma, X., Shedlock, C. J., Medina, T., Ribas, R. A., Clarke, H. A., Hawkin- son, T. R., Dande, P. K., Golamari, H.K.R, Wu, L., Ziani B.E., Burke, S. N., Merritt, M. E., Kooi, C. W. V., Gentry, M. S., Yadav, N. N., **Chen L<sup>&sect;</sup>**, & **Sun R.C.<sup>&sect;</sup>** (2025). AI-driven framework to map the brain metabolome in three dimensions. [Nature Metabolism](https://doi.org/10.1038/s42255-025-01242-9)
 <!-- * 64 * -->
 
 
