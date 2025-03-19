@@ -20,6 +20,10 @@ description: Li Chen's publications
 
 #### 2025
 
+Ma, X., Shedlock, C. J., Medina, T., Ribas, R. A., Clarke, H. A., Hawkin- son, T. R., Dande, P. K., Golamari, H.K.R, Wu, L., Ziani B.E., Burke, S. N., Merritt, M. E., Kooi, C. W. V., Gentry, M. S., Yadav, N. N., **Chen L<sup>&sect;</sup>**, & **Sun R.C.<sup>&sect;</sup>** (2025). AI-driven framework to map the brain metabolome in three dimensions. [Nature Metabolism] (https://doi.org/10.1038/s42255-025-01242-9)
+<!-- * 64 * -->
+
+
 Clarke HA, Hawkinson TR, Shedlock CJ, Medina T, Ribas RA, Wu L, Liu Z, Ma X, Xia Y, Huang Y, He X, Chang JE, Young LEA, Juras JA, Buoncristiani MD, James AN, Rushin A, Merritt ME, Mestas A, Lamb JF, Manauis EC, Austin GL, **Chen L**, Singh PK, Bian J, Vander Kooi CW, Evers BM, Brainson CF, Allison DB, Gentry  MS, Sun RC (2025) Glycogen drives tumour initiation and progression in lung adenocarcinoma [Nature Metabolism](https://www.nature.com/articles/s42255-025-01243-8)
 <!-- * 63 * -->
 
