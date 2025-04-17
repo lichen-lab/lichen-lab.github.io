@@ -22,7 +22,7 @@ description: I am an tenured Associate Professor of Biostatistics at University 
             <a href="https://directory.ufhealth.org/chen-li-1">Associate Professor</a><br/>
 		<a href="https://biostat.ufl.edu/">Department of Biostatistics</a><br/>
 		 <a href="https://www.ufl.edu/">University of Florida</a><br/>
- 2004 Mowry Road, 5th Floor CTRB, 3124 RM  <br/>
+ 2004 Mowry Road, 3124 RM  <br/>
     Gainesville, FL 32611-7450 <br/>
             USA<br/>
             <div id="hide_email">
@@ -34,7 +34,7 @@ description: I am an tenured Associate Professor of Biostatistics at University 
 	</div>
 
 
-I am a tenured Associate Professor of Biostatistics at University of Florida. I obtained my PhD in [Computer Science and Informatics](http://www.cs.emory.edu/) from Emory University, where I worked with [Dr. Zhaohui Steve Qin](https://sph.emory.edu/faculty/profile/index.php?FID=zhaohui%20%20steve%20-qin-8697) (mentor) and [Dr. Hao Wu](https://www.haowulab.org/) (mentor). I also received a MS in [Biostatistics](http://www.jhsph.edu/departments/biostatistics/index.html) and another MS in [Computer Science](https://www.cs.jhu.edu/) from the Johns Hopkins University, where I worked with [Dr. Hongkai Ji](https://jilab.org/)(mentor).
+I am a tenured Associate Professor of Biostatistics at University of Florida. I am the Associate Director of Bioinformatics at [UF Center for Spatial Biomolecule Research (CASBR)](https://casbr.biochem.med.ufl.edu/team/). I obtained my PhD in [Computer Science and Informatics](http://www.cs.emory.edu/) from Emory University. I also received a MS in [Biostatistics](http://www.jhsph.edu/departments/biostatistics/index.html) and another MS in [Computer Science](https://www.cs.jhu.edu/) from the Johns Hopkins University.
 
 ### Opening
 My lab now has multiple openings for PhD/MS students and one opening for Postdoc. Interested candidates please refer the [Opening](https://lichen-lab.github.io//pages/opening.html) for how to apply.
