@@ -19,12 +19,9 @@ description: I am an tenured Associate Professor of Biostatistics at University 
     <div class="row-fluid">
         <div class="span5">
             Li Chen<br/>
-            <a href="https://directory.ufhealth.org/chen-li-1">Associate Professor</a><br/>
-		<a href="https://biostat.ufl.edu/">Department of Biostatistics</a><br/>
+            <a href="https://directory.ufhealth.org/chen-li-1">Associate Professor, Department of Biostatistics</a><br/>
+		<a href="https://casbr.biochem.med.ufl.edu/team/">Associate Director, UF Center for Spatial Biomolecule Research (CASBR)</a><br/>
 		 <a href="https://www.ufl.edu/">University of Florida</a><br/>
- 2004 Mowry Road, 3124 RM  <br/>
-    Gainesville, FL 32611-7450 <br/>
-            USA<br/>
             <div id="hide_email">
             Email: <code>li.chen1@ufl.edu</code><br/>
             </div>
