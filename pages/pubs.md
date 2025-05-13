@@ -16,15 +16,18 @@ description: Li Chen's publications
 
 ### <a name="articles"></a>Journal articles
 
-**Key**: &sect; indicates (co-)corresponding author; &dagger; indicates advisee; ^indicates (co-) first author	
+**Key**: &sect; indicates (co-)corresponding/senior author; &dagger; indicates advisee; ^indicates (co-) first author	
 
 #### 2025
+
+Clarke HA^, Ma X^<sup>&dagger;</sup>, Shedlock CJ^, Medina T, Hawkinson TR, Wu L, Ribas RA, Keohane S, Ravi S, Bizon JL, Burke SN, Abisambra JF, Merritt ME, Prentice BM, Vander Kooi CW, **Gentry MS<sup>&sect;</sup>**, **Chen L<sup>&sect;</sup>**, **Sun RC<sup>&sect;</sup>** (2025) A novel Bayesian hierarchical model for detecting differential circadian pattern in transcriptomic applications [Nature Communications](https://www.nature.com/articles/s41467-025-59487-7)[![SAMI Software](icons16/html-icon.png)](https://github.com/XinBiostats/SAMI)
+<!-- * 66 * -->
 
 Zhang Y<sup>&dagger;</sup>, Ding H, **Huo Z<sup>&sect;</sup>**, **Chen L<sup>&sect;</sup>** (2025) A novel Bayesian hierarchical model for detecting differential circadian pattern in transcriptomic applications [Briefings in Bioinformatics](https://academic.oup.com/bib/article/26/2/bbaf139/8113723?searchresult=1)[![BayesDCirc Software](icons16/html-icon.png)](https://github.com/lichen-lab/BayesDCirc)
 <!-- * 65 * -->
 
 
-Ma, X., Shedlock, C. J., Medina, T., Ribas, R. A., Clarke, H. A., Hawkin- son, T. R., Dande, P. K., Golamari, H.K.R, Wu, L., Ziani B.E., Burke, S. N., Merritt, M. E., Kooi, C. W. V., Gentry, M. S., Yadav, N. N., **Chen L<sup>&sect;</sup>**, & **Sun R.C.<sup>&sect;</sup>** (2025). AI-driven framework to map the brain metabolome in three dimensions. [Nature Metabolism](https://doi.org/10.1038/s42255-025-01242-9)
+Ma, X.^, Shedlock, C. J., Medina, T., Ribas, R. A., Clarke, H. A., Hawkin- son, T. R., Dande, P. K., Golamari, H.K.R, Wu, L., Ziani B.E., Burke, S. N., Merritt, M. E., Kooi, C. W. V., Gentry, M. S., Yadav, N. N., **Chen L<sup>&sect;</sup>**, & **Sun R.C.<sup>&sect;</sup>** (2025). AI-driven framework to map the brain metabolome in three dimensions. [Nature Metabolism](https://doi.org/10.1038/s42255-025-01242-9)
 <!-- * 64 * -->
 
 
