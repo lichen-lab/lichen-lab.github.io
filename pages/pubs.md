@@ -20,7 +20,7 @@ description: Li Chen's publications
 
 #### 2025
 
-Clarke HA^, Ma X^<sup>&dagger;</sup>, Shedlock CJ^, Medina T, Hawkinson TR, Wu L, Ribas RA, Keohane S, Ravi S, Bizon JL, Burke SN, Abisambra JF, Merritt ME, Prentice BM, Vander Kooi CW, **Gentry MS<sup>&sect;</sup>**, **Chen L<sup>&sect;</sup>**, **Sun RC<sup>&sect;</sup>** (2025) A novel Bayesian hierarchical model for detecting differential circadian pattern in transcriptomic applications [Nature Communications](https://www.nature.com/articles/s41467-025-59487-7)[![SAMI Software](icons16/html-icon.png)](https://github.com/XinBiostats/SAMI)
+Clarke HA^, Ma X^<sup>&dagger;</sup>, Shedlock CJ^, Medina T, Hawkinson TR, Wu L, Ribas RA, Keohane S, Ravi S, Bizon JL, Burke SN, Abisambra JF, Merritt ME, Prentice BM, Vander Kooi CW, **Gentry MS<sup>&sect;</sup>**, **Chen L<sup>&sect;</sup>**, **Sun RC<sup>&sect;</sup>** (2025) Spatial mapping of the brain metabolome lipidome and glycome [Nature Communications](https://www.nature.com/articles/s41467-025-59487-7)[![SAMI Software](icons16/html-icon.png)](https://github.com/XinBiostats/SAMI)
 <!-- * 66 * -->
 
 Zhang Y<sup>&dagger;</sup>, Ding H, **Huo Z<sup>&sect;</sup>**, **Chen L<sup>&sect;</sup>** (2025) A novel Bayesian hierarchical model for detecting differential circadian pattern in transcriptomic applications [Briefings in Bioinformatics](https://academic.oup.com/bib/article/26/2/bbaf139/8113723?searchresult=1)[![BayesDCirc Software](icons16/html-icon.png)](https://github.com/lichen-lab/BayesDCirc)
