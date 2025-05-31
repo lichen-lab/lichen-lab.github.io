@@ -34,7 +34,7 @@ Ma, X.^, Shedlock, C. J., Medina, T., Ribas, R. A., Clarke, H. A., Hawkin- son, 
 Clarke HA, Hawkinson TR, Shedlock CJ, Medina T, Ribas RA, Wu L, Liu Z, Ma X, Xia Y, Huang Y, He X, Chang JE, Young LEA, Juras JA, Buoncristiani MD, James AN, Rushin A, Merritt ME, Mestas A, Lamb JF, Manauis EC, Austin GL, **Chen L**, Singh PK, Bian J, Vander Kooi CW, Evers BM, Brainson CF, Allison DB, Gentry  MS, Sun RC (2025) Glycogen drives tumour initiation and progression in lung adenocarcinoma [Nature Metabolism](https://www.nature.com/articles/s42255-025-01243-8)
 <!-- * 63 * -->
 
-Brothwell JA, Wei YH, Wang J, Guo T, Zhang C, Fortney KR, Duplantier R, **Chen L**, Batteiger TA, Kaplan MH, Spinola SM, Cao S. Single cell and spatial transcriptomic profiling of H. ducreyi infection in human volunteers. [mBio](https://journals.asm.org/doi/10.1128/mbio.03885-24) 
+Brothwell JA, Wei YH, Wang J, Guo T, Zhang C, Fortney KR, Duplantier R, **Chen L**, Batteiger TA, Kaplan MH, Spinola SM, Cao S. A high-resolution view of the immune and stromal cell response to Haemophilus ducreyi infection in human volunteers. [mBio](https://journals.asm.org/doi/10.1128/mbio.03885-24) 
 <!-- * 62 * -->
 
 #### 2024
