@@ -96,6 +96,7 @@ data from multiple individuals.
 : An R package for implementing a novel Bayesian hierarchical model for quantitative comparison of multiple ChIP-seq datasets.
 * <a name="hmChIP"></a>[hmChIP](http://jilab.biostat.jhsph.edu/database/cgi-bin/hmChIP.pl)
 : A web server and database for cell type-specific ChIP-seq and ChIP-chip data query.
+
 ---
 
 ### Noncoding RNA analysis:
