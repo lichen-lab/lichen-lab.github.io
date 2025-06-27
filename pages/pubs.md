@@ -20,6 +20,9 @@ description: Li Chen's publications
 
 #### 2025
 
+Pham AT, Virk S, Oliveira AC, Alves MD, Fu C, Zhang Y, Alvarez-Castanon J, Lee BB, Lee KL, Mashina R, Ray KE, Donabedian P, Ebrahimi E, Patel H, Patel R, Lewis D, Huo Z, Karmouty-Quintana H, **Chen L**, Jin L, Bryant AJ (2025) Opposing role for myeloid and smooth muscle cell STING in pulmonary hypertension [JCI Insight] (https://insight.jci.org/articles/view/184792)
+<!-- * 67 * -->
+
 Clarke HA^, Ma X^<sup>&dagger;</sup>, Shedlock CJ^, Medina T, Hawkinson TR, Wu L, Ribas RA, Keohane S, Ravi S, Bizon JL, Burke SN, Abisambra JF, Merritt ME, Prentice BM, Vander Kooi CW, **Gentry MS<sup>&sect;</sup>**, **Chen L<sup>&sect;</sup>**, **Sun RC<sup>&sect;</sup>** (2025) Spatial mapping of the brain metabolome lipidome and glycome [Nature Communications](https://www.nature.com/articles/s41467-025-59487-7)[![SAMI Software](icons16/html-icon.png)](https://github.com/XinBiostats/SAMI)
 <!-- * 66 * -->
 
