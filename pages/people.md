@@ -30,8 +30,6 @@ Xin Ma, PhD student in Biostatistics (2022-now), BS Southwestern University of F
 
 Weijia Jin, PhD student in Biostatistics (2023-now), BS Peking University, MS University of Michigan
 
-Yi Xia, PhD student in Biostatistics (2023-now), BS Lanzhou University, MS Georgetown University
-
 Zhang Yutao, PhD student in Biostatistics (2024-now), BS Harbin Engineering University, MS University of Florida
 
 <br/>
