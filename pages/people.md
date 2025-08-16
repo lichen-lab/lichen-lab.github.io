@@ -26,15 +26,15 @@ Li Chen, Principal Investigator
 
 Fengdi Zhao, PhD student in Biostatistics (2021-now), BS University of Washington, MS University of North Carolina
 
-Xin Ma, PhD student in Biostatistics (2022-now), BS Southwestern University of Finance and Economics， MS George Washington University
+Xin Ma, PhD student in Biostatistics (2022-now), BS Southwestern University of Finance and Economics， MS George Washington University (co-mentor Dr. Ramon Sun)
 
 Weijia Jin, PhD student in Biostatistics (2023-now), BS Peking University, MS University of Michigan
 
 Zhang Yutao, PhD student in Biostatistics (2024-now), BS Harbin Engineering University, MS University of Florida
 
-Wenxing Wang, PhD student in Biostatistics (2025-now), BS The Hong Kong Polytechnic University, MS Yale University
+Wenxing Wang, PhD student in Biostatistics (2025-now), BS The Hong Kong Polytechnic University, MS Yale University (co-mentor Dr. Ramon Sun)
 
-Yuhan Wang, PhD student in Biostatistics (2025-now), BS Shanghai University of Finance and Economics, MS Columbia University
+Yuhan Wang, PhD student in Biostatistics (2025-now), BS Shanghai University of Finance and Economics, MS Columbia University (co-advisor Dr. Taki Benos)
 
 <br/>
 
