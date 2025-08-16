@@ -32,6 +32,10 @@ Weijia Jin, PhD student in Biostatistics (2023-now), BS Peking University, MS Un
 
 Zhang Yutao, PhD student in Biostatistics (2024-now), BS Harbin Engineering University, MS University of Florida
 
+Wenxing Wang, PhD student in Biostatistics (2025-now), BS The Hong Kong Polytechnic University, MS Yale University
+
+Yuhan Wang, PhD student in Biostatistics (2025-now), BS Shanghai University of Finance and Economics, MS Columbia University
+
 <br/>
 
 
