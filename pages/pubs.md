@@ -20,6 +20,9 @@ description: Li Chen's publications
 
 #### 2025
 
+Schanz ML, Zhao F, Zadeii KE, **Chen L**, López-Yglesias AH (2025) The cat’s out of the bag: Toxoplasma gondii provides further insight into myeloid-mediated host defense [ImmunoHorizons](https://academic.oup.com/immunohorizons/article/9/9/vlaf037/8240903) 
+<!-- * 68 * -->
+
 Pham AT, Virk S, Oliveira AC, Alves MD, Fu C, Zhang Y, Alvarez-Castanon J, Lee BB, Lee KL, Mashina R, Ray KE, Donabedian P, Ebrahimi E, Patel H, Patel R, Lewis D, Huo Z, Karmouty-Quintana H, **Chen L**, Jin L, Bryant AJ (2025) Opposing role for myeloid and smooth muscle cell STING in pulmonary hypertension [JCI Insight](https://insight.jci.org/articles/view/184792)
 <!-- * 67 * -->
 
