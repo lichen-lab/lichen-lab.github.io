@@ -20,6 +20,12 @@ description: Li Chen's publications
 
 #### 2025
 
+Ding H, Meng L, Zhang Y, Bryant AJ, Xing C, Esser KA, Chen L, Feng Y, Huo Z (2025) A Bayesian framework for genome-wide circadian rhythmicity biomarker detection. [Briefings in Bioinformatics](https://academic.oup.com/bib/article/26/5/bbaf552/8305232)
+<!-- * 70 * -->
+
+Tamargo JA, Smith G, **Chen L**, Cruz-Almeida Y (2025) High-impact pain predicts subjective cognitive decline and interacts with APOE4 genotype in the development of objective cognitive impairment. [Journal of Pain](https://www.sciencedirect.com/science/article/pii/S1526590025007916) 
+<!-- * 69 * -->
+
 Schanz ML, Zhao F, Zadeii KE, **Chen L**, López-Yglesias AH (2025) The cat’s out of the bag: Toxoplasma gondii provides further insight into myeloid-mediated host defense [ImmunoHorizons](https://academic.oup.com/immunohorizons/article/9/9/vlaf037/8240903) 
 <!-- * 68 * -->
 
