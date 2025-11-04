@@ -21,60 +21,60 @@ description: Li Chen's publications
 #### 2025
 
 Ding H, Meng L, Zhang Y, Bryant AJ, Xing C, Esser KA, Chen L, Feng Y, Huo Z (2025) A Bayesian framework for genome-wide circadian rhythmicity biomarker detection. [Briefings in Bioinformatics](https://academic.oup.com/bib/article/26/5/bbaf552/8305232)
-<!-- * 70 * -->
+<!-- * 71 * -->
 
 Tamargo JA, Smith G, **Chen L**, Cruz-Almeida Y (2025) High-impact pain predicts subjective cognitive decline and interacts with APOE4 genotype in the development of objective cognitive impairment. [Journal of Pain](https://www.sciencedirect.com/science/article/pii/S1526590025007916) 
-<!-- * 69 * -->
+<!-- * 70 * -->
 
 Schanz ML, Zhao F, Zadeii KE, **Chen L**, López-Yglesias AH (2025) The cat’s out of the bag: Toxoplasma gondii provides further insight into myeloid-mediated host defense [ImmunoHorizons](https://academic.oup.com/immunohorizons/article/9/9/vlaf037/8240903) 
-<!-- * 68 * -->
+<!-- * 69 * -->
 
 Pham AT, Virk S, Oliveira AC, Alves MD, Fu C, Zhang Y, Alvarez-Castanon J, Lee BB, Lee KL, Mashina R, Ray KE, Donabedian P, Ebrahimi E, Patel H, Patel R, Lewis D, Huo Z, Karmouty-Quintana H, **Chen L**, Jin L, Bryant AJ (2025) Opposing role for myeloid and smooth muscle cell STING in pulmonary hypertension [JCI Insight](https://insight.jci.org/articles/view/184792)
-<!-- * 67 * -->
+<!-- * 68 * -->
 
 Clarke HA^, Ma X^<sup>&dagger;</sup>, Shedlock CJ^, Medina T, Hawkinson TR, Wu L, Ribas RA, Keohane S, Ravi S, Bizon JL, Burke SN, Abisambra JF, Merritt ME, Prentice BM, Vander Kooi CW, **Gentry MS<sup>&sect;</sup>**, **Chen L<sup>&sect;</sup>**, **Sun RC<sup>&sect;</sup>** (2025) Spatial mapping of the brain metabolome lipidome and glycome [Nature Communications](https://www.nature.com/articles/s41467-025-59487-7)[![SAMI Software](icons16/html-icon.png)](https://github.com/XinBiostats/SAMI)
-<!-- * 66 * -->
+<!-- * 67 * -->
 
 Zhang Y<sup>&dagger;</sup>, Ding H, **Huo Z<sup>&sect;</sup>**, **Chen L<sup>&sect;</sup>** (2025) A novel Bayesian hierarchical model for detecting differential circadian pattern in transcriptomic applications [Briefings in Bioinformatics](https://academic.oup.com/bib/article/26/2/bbaf139/8113723?searchresult=1)[![BayesDCirc Software](icons16/html-icon.png)](https://github.com/lichen-lab/BayesDCirc)
-<!-- * 65 * -->
+<!-- * 66 * -->
 
 
 Ma, X.^, Shedlock, C. J., Medina, T., Ribas, R. A., Clarke, H. A., Hawkin- son, T. R., Dande, P. K., Golamari, H.K.R, Wu, L., Ziani B.E., Burke, S. N., Merritt, M. E., Kooi, C. W. V., Gentry, M. S., Yadav, N. N., **Chen L<sup>&sect;</sup>**, & **Sun R.C.<sup>&sect;</sup>** (2025). AI-driven framework to map the brain metabolome in three dimensions. [Nature Metabolism](https://doi.org/10.1038/s42255-025-01242-9)
-<!-- * 64 * -->
+<!-- * 65 * -->
 
 
 Clarke HA, Hawkinson TR, Shedlock CJ, Medina T, Ribas RA, Wu L, Liu Z, Ma X, Xia Y, Huang Y, He X, Chang JE, Young LEA, Juras JA, Buoncristiani MD, James AN, Rushin A, Merritt ME, Mestas A, Lamb JF, Manauis EC, Austin GL, **Chen L**, Singh PK, Bian J, Vander Kooi CW, Evers BM, Brainson CF, Allison DB, Gentry  MS, Sun RC (2025) Glycogen drives tumour initiation and progression in lung adenocarcinoma [Nature Metabolism](https://www.nature.com/articles/s42255-025-01243-8)
-<!-- * 63 * -->
+<!-- * 64 * -->
 
 Brothwell JA, Wei YH, Wang J, Guo T, Zhang C, Fortney KR, Duplantier R, **Chen L**, Batteiger TA, Kaplan MH, Spinola SM, Cao S. A high-resolution view of the immune and stromal cell response to Haemophilus ducreyi infection in human volunteers. [mBio](https://journals.asm.org/doi/10.1128/mbio.03885-24) 
-<!-- * 62 * -->
+<!-- * 63 * -->
 
 #### 2024
 
 Wang F, Li Y, Shen H, Martinez-Feduchi P, Ji X, Teng P, Krishnakumar S, Hu J, **Chen L**, Feng Y, Yao B (2024) Identification of pathological pathways centered on circRNA dysregulation in association with irreversible progression of Alzheimer’s disease [Genome Medicine](https://link.springer.com/article/10.1186/s13073-024-01404-6?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20241111&utm_content=10.1186/s13073-024-01404-6)
-<!-- * 61 * -->
+<!-- * 62 * -->
 
 
 Hou T, Shen X, Zhang S, Liang M, **Chen L**, Lu Q (2024) AIGen: An Artificial Intelligence Software for Complex Genetic Data Analysis [Briefings in Bioinformatics](https://academic.oup.com/bib/)
-<!-- * 60 * -->
+<!-- * 61 * -->
 
 Zhao F<sup>&dagger;</sup>, Li Y, **Chen L<sup>&sect;</sup>**, **Yao B<sup>&sect;</sup>** (2024) Identification of brain region-specific landscape and functions of clustered circRNAs in Alzheimer’s disease using circMeta2 [Communications Biology](https://www.nature.com/articles/s42003-024-07060-1)[![circMeta2 Software](icons16/html-icon.png)](https://github.com/lichen-lab/circMeta2)
-<!-- * 59 * -->
+<!-- * 60 * -->
 
 
 Jin W<sup>&dagger;</sup>, Xia Y<sup>&dagger;</sup>, Nizomov J<sup>&dagger;</sup>, Liu Y, Li Z, Lu,Q, **Chen L<sup>&sect;</sup>** (2024) MPRAVarDB: an online database and web server for exploring regulatory effects of genetic variants [Bioinformatics](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btae578/7777162)[![MPRAVarDB Software](icons16/html-icon.png)](https://mpravardb.rc.ufl.edu/)
-<!-- * 58 * -->
+<!-- * 59 * -->
 
 Yuan Z, Pei G, Shan Z, Xiao F, Cai G, **Chen L**, Lu Q (2024) Multi-modal Functional Deep Learning for Multi-omics Data
  [Briefings in Bioinformatics](https://academic.oup.com/bib/article/25/5/bbae448/7758757)
-<!-- * 57 * -->
+<!-- * 58 * -->
 
 Ma X<sup>&dagger;</sup>, Thela S<sup>&dagger;</sup>, Zhao F<sup>&dagger;</sup>, Yao B, Wen Z, Jin P, Zhao, J, **Chen L<sup>&sect;</sup>** (2024) Deep5hmC: Predicting genome-wide 5-Hydroxymethylcytosine landscape via a multimodal deep learning model [Bioinformatics](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btae528/7743210?rss=1)[![Deep5hmC Software](icons16/html-icon.png)](https://github.com/lichen-lab/Deep5hmC)
-<!-- * 56 * -->
+<!-- * 57 * -->
 
 
 Zhao F<sup>&dagger;</sup>, Ma X<sup>&dagger;</sup>, Yao B, Lu Q, **Chen L<sup>&sect;</sup>** (2024) scaDA: A novel statistical method for differential analysis of single-cell chromatin accessibility sequencing data [Plos Computational Biology](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011854)[![scaDA Software](icons16/html-icon.png)](https://github.com/lichen-lab/scaDA)
-<!-- * 55 * -->
+<!-- * 56 * -->
 
 
 #### 2023
