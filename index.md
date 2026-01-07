@@ -21,6 +21,7 @@ description: I am an tenured Associate Professor of Biostatistics at University 
             Li Chen<br/>
             <a href="https://directory.ufhealth.org/chen-li-1">Associate Professor, Department of Biostatistics</a><br/>
 		<a href="https://casbr.biochem.med.ufl.edu/team/">Associate Director, UF Center for Spatial Biomolecule Research (CASBR)</a><br/>
+					<a href="https://mbi.ufl.edu/cores/computing-resources/">Scientific Director, Bioinformatics Core, UF McKnight Brain Institute </a><br/>
 		 <a href="https://www.ufl.edu/">University of Florida</a><br/>
             <div id="hide_email">
             Email: <code>li.chen1@ufl.edu</code><br/>
@@ -31,13 +32,13 @@ description: I am an tenured Associate Professor of Biostatistics at University 
 	</div>
 
 
-I am a tenured Associate Professor of Biostatistics at University of Florida. I am the Associate Director of Bioinformatics at [UF Center for Spatial Biomolecule Research (CASBR)](https://casbr.biochem.med.ufl.edu/team/). I obtained my PhD in [Computer Science and Informatics](http://www.cs.emory.edu/) from Emory University. I also received a MS in [Biostatistics](http://www.jhsph.edu/departments/biostatistics/index.html) and another MS in [Computer Science](https://www.cs.jhu.edu/) from the Johns Hopkins University.
+I am a tenured Associate Professor of Biostatistics at University of Florida. I am the Associate Director of Bioinformatics at [UF Center for Spatial Biomolecule Research (CASBR)](https://casbr.biochem.med.ufl.edu/team/) and Scientific Director of Bioinformatics at [UF McKnight Brain Institute](https://mbi.ufl.edu/cores/computing-resources/). I obtained my PhD in [Computer Science and Informatics](http://www.cs.emory.edu/) from Emory University. I also received a MS in [Biostatistics](http://www.jhsph.edu/departments/biostatistics/index.html) and another MS in [Computer Science](https://www.cs.jhu.edu/) from the Johns Hopkins University.
 
 ### Opening
 My lab now has multiple openings for PhD/MS students and one opening for Postdoc. Interested candidates please refer the [Opening](https://lichen-lab.github.io//pages/opening.html) for how to apply.
 
 ### Research
-My lab is currently funded by NIH NIGMS. My lab's research focuses on developing statistical and informatics methods for analyzing of multi-omics data. Projects include but not limited to 
+My lab's research focuses on developing statistical and informatics methods for analyzing of multi-omics data. Projects include but not limited to 
 
 - **Single-cell genomics**:
 Develop statistical methods and tools for analyzing single-cell genomics data
