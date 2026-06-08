@@ -23,7 +23,7 @@ Li Chen, Principal Investigator
 
 ###  Postdoc 
 
-Zeyu Yuwen (2026-now), PhD in Statistics, University of Florida
+Zeyu Yuwen (2026-now), BS Nanjing University, PhD in Statistics, University of Florida
 
 ###  PhD students 
 
@@ -42,53 +42,43 @@ Yuhan Wang, PhD student in Biostatistics (2025-now), BS Shanghai University of F
 <br/>
 
 
-###  MS students 
-
-
-<br/>
-
-###  BS students 
-
-Javlon Nizomov, BS of Public Health
-
-<br/>
-
-
 ## Alumni
 
 ###  PhD
 
 <li> <strong>Ye Wang</strong>, PhD in Computer Science at Auburn University, 2021. 
-<strong>Current position</strong>: Research Scientist at Biogen. </li>
+<strong>First position</strong>: Research Scientist at Biogen. </li>
     
 ###  MS
 
 <li> <strong>Gaoxiang Li</strong>, MS in Computer Science at Auburn University, 2020. 
-<strong>Current position</strong>: Ph.D. student in the Department of Computer Science, Texas Tech University. </li>
+<strong>First position</strong>: Ph.D. student in the Department of Computer Science, Texas Tech University. </li>
 
 <li> <strong>Toluwanimi Shorinwa </strong>, MS in Purdue University, 2023. 
-<strong>Current position</strong>: Electronics System Engineer at Ummins </li>
+<strong>First position</strong>: Electronics System Engineer at Ummins </li>
+
+###  BS students 
+
+<li> <strong> Javlon Nizomov</strong>, BS of Public Health at UF, 2024.
+<strong>First position</strong>: Founder, Head Engineer, Drone Games Ltd </li>
 
 
 ###  Research Assistant
 
 <li> <strong> Sai Ritesh Thela</strong>, MS student in Computer Science at UF, 2024.
-<strong>Current position</strong>: PhD student in Department of Computer Science, Arizona State University. 
-
-<li> <strong> Javlon Nizomov</strong>, BS of Public Health at UF, 2024.
-<strong>Current position</strong>: Head Engineer at Linex Interactive.  
+<strong>First position</strong>: PhD student in Department of Computer Science, Arizona State University.  
 
 <li> <strong>Aman Agarwal</strong>, MS in Computer Science at Indiana University, 2023. 
-<strong>Current position</strong>: R&D Engineer at Synopsys.  
+<strong>First position</strong>: R&D Engineer at Synopsys.  
     
 <li> <strong>Ziqian Bi</strong>, MS in Computer Science at Indiana University, 2021. 
-<strong>Current position</strong>: Ph.D. student in the Department of Computer Science, Indiana University.  
+<strong>First position</strong>: Ph.D. student in the Department of Computer Science, Indiana University.  
 
 <li> <strong>Uma Maheswari Gollapudi</strong>, MS in Computer Science at Indiana University, 2021. 
-<strong>Current position</strong>: Data Scientis at Oracle. 
+<strong>First position</strong>: Data Scientis at Oracle. 
     
 <li> <strong>Chao Li</strong>, PhD in Pharmaceutical Sciences at Auburn University, 2021. 
-<strong>Current position</strong>: Data Scientist at AbbVie. </li>
+<strong>First position</strong>: Data Scientist at AbbVie. </li>
 
 
 
