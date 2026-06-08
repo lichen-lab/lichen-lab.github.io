@@ -23,7 +23,7 @@ Here is a list of software I developed.
 ---
 
 ### Bayesian methods for analyzing multiome data:
-* <a name="BayesDCirc"></a>[BAMMSC](https://github.com/lichen-lab/BayesDCirc)
+* <a name="BayesDCirc"></a>[BayesDCirc](https://github.com/lichen-lab/BayesDCirc)
 : An R package for implementing a Bayesian hierarchical model for detecting differential circadian pattern in transcriptomic applications
 * <a name="BAMMSC"></a>[BAMMSC](https://github.com/lichen-lab/BAMMSC)
 : An Rpackage for implementing a novel Bayesian mixture model to cluster droplet-based single cell transcriptomic
@@ -38,6 +38,8 @@ data from multiple individuals.
 : A python toolkit for simultaneous spatial analysis of the metabolome, lipidome, and glycome from a single tissue section using mass spectrometry imaging.
 * <a name="MetaVision3D"></a>[MetaVision3D](https://github.com/XinBiostats/MetaVision3D)
 : A Python toolkit uses advanced algorithms for image registration, normalization and interpolation to enable the integration of serial 2D tissue sections, thereby generating a comprehensive 3D model of unique diverse metabolites across host tissues at submesoscale.
+* <a name="GraphScrDom"></a>[GraphScrDom](https://github.com/lichen-lab/GraphScrDom)
+: A Python toolkit for spatial domain detection using spatial transcriptome data
 
 ---
 
@@ -65,6 +67,8 @@ data from multiple individuals.
 : A Python package for implementing a deep transfer learning approach to improve the prediction for experimentally validated regulatory variants.
 * <a name="DeepPerVar"></a>[DeepPerVar](https://github.com/lichen-lab/DeepPerVar)
 : A Python package for implementing a multi-modal deep learning model to predict individual-level noncoding functional variants.
+* <a name="MPRAVarDB"></a>[MPRAVarDB](https://mpravardb.rc.ufl.edu/)
+: MPRAVarDB is an online database and web server for exploring regulatory effects of genetic variants generated from MPRA experiments. 
 
 ---
 
