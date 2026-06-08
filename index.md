@@ -40,6 +40,12 @@ My lab now has multiple openings for PhD/MS students and one opening for Postdoc
 ### Research
 My lab's research focuses on developing statistical and informatics methods for analyzing of multi-omics data. Projects include but not limited to 
 
+- **Spatial omics**:
+Develop computational approaches for analyzing spatial omics (e.g. transcriptome, metabolome) data
+	- Spatial domain detection.[<a href="https://genome.cshlp.org/content/early/2026/06/02/gr281260125?implicit-login=true%26241">GraphScrDom</a>]
+	- Spatial analysis of co-profiling metabolome, lipidome, and glycome from MALDI.[<a href="https://www.nature.com/articles/s41467-025-59487-7">Sami</a>]
+	- 3D integration of spatial 2D tissue sesctions generated from MALDI.[<a href="https://www.nature.com/articles/s42255-025-01242-9">MetaVision3D</a>]
+
 - **Single-cell genomics**:
 Develop statistical methods and tools for analyzing single-cell genomics data
 	- Differential accessbility analysis using scMultiome data (scRNA-seq+scATAC-seq).[<a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011854">scaDA</a>]
@@ -51,7 +57,8 @@ Develop statistical methods and tools for analyzing epigenomic data
 	- TF regulatory module by integrating large-scale ChIP-seq data. [<a href="https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btz975/5695705">tfLDA</a>]
 	- Database and web server. [<a href="https://academic.oup.com/bioinformatics/article/27/10/1447/260530">hmChIP</a>]
 	- Predictive modeling of disease progressing using DNA methylation data. [<a href="https://www.sciencedirect.com/science/article/pii/S2001037022004639?via%3Dihub">MTAE</a>]
-	- Predicting 3D chromatin interaction using Hi-C data. [<a href="https://www.biorxiv.org/content/10.1101/2022.05.24.493333v1">DeepPHiC</a>]
+	- Predicting 3D chromatin interaction using Hi-C data. [<a href="https://academic.oup.com/bioinformatics/article/39/1/btac801/6887158">DeepPHiC</a>]
+    - Bayesian analyses for detecting differential circadian pattern. [<a href="https://academic.oup.com/bib/article/26/2/bbaf139/8113723">BayesDCirc</a>]
 
 - **Genetics**:
 Develop computational methods for annotating and analyzing functional variants (GWAS SNPs, cis-eQTL SNVs) by utilizing large-scale multi-omics profiles
@@ -73,4 +80,4 @@ Develop statistical methods for analyzing microbiome data
 - **Transcriptomics**:
 Develop statistical methods for analyzing non-coding RNAs
 	- Differential expression analysis for circular RNA for small biological replicates. [<a href="https://academic.oup.com/bioinformatics/article/36/2/539/5543088">circMeta</a>]
- - 	- Differential expression analysis for circular RNA for large-scale population study. [<a href="https://www.nature.com/articles/s42003-024-07060-1">circMeta2</a>]
+  	- Differential expression analysis for circular RNA for large-scale population study. [<a href="https://www.nature.com/articles/s42003-024-07060-1">circMeta2</a>]
