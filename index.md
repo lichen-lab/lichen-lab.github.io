@@ -80,4 +80,4 @@ Develop statistical methods for analyzing microbiome data
 - **Transcriptomics**:
 Develop statistical methods for analyzing non-coding RNAs
 	- Differential expression analysis for circular RNA for small biological replicates. [<a href="https://academic.oup.com/bioinformatics/article/36/2/539/5543088">circMeta</a>]
-  	- Differential expression analysis for circular RNA for large-scale population study. [<a href="https://www.nature.com/articles/s42003-024-07060-1">circMeta2</a>]
+    - Differential expression analysis for circular RNA for large-scale population study. [<a href="https://www.nature.com/articles/s42003-024-07060-1">circMeta2</a>]
