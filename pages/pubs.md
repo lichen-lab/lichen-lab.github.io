@@ -18,6 +18,20 @@ description: Li Chen's publications
 
 **Key**: &sect; indicates (co-)corresponding/senior author; &dagger; indicates advisee; ^indicates (co-) first author	
 
+#### 2026
+
+Ma X, Jin W, Lu Q, Sun RC, **Chen L<sup>&sect;</sup>** (2026) Reference-informed spatial domain detection using weak supervision for spatial transcriptomics. [Genome Research](https://genome.cshlp.org/content/early/2026/06/02/gr281260125?implicit-login=true%26810)[![GraphScrDom Software](icons16/html-icon.png)](https://github.com/lichen-lab/GraphScrDom)
+<!-- * 75 * -->
+
+Ribas RA, Tang Q, Caffee SI, Shedlock CJ, Hawkinson TR, Dragich AK, Ziani BEC, Bucco Paolasso F, Black AP, Ma X, Kota HC, **Chen L**, Frolenkov GI, Allison DB, Gentry MS, Sun RC, Vander Kooi CW (2026) Mass spectrometry-based spatial imaging of the cochlea. [Journal of the American Society for Mass Spectrometry](https://pubs.acs.org/doi/10.1021/jasms.5c00436)
+<!-- * 74 * -->
+
+Zhou Y, Geng P, Zhang S, Jin W, **Chen L**, Xiao F, Li Z, Lu Q (2026) A two-stage GAN-based instrumental variable method for causal analysis of omics data. [Briefings in Bioinformatics](https://academic.oup.com/bib/article/27/1/bbag071/8495040)27(1):bbag071.
+<!-- * 73 * -->
+
+Abbas M, Tamargo JA, Cruz CJ, Zhang Y, Wohlgemuth S, Wu K, **Chen L**, Staud R, Fillingim R, Leeuwenburgh C, Cruz-Almeida Y (2026) Circulating cellular senescence biomarkers in persons with chronic knee osteoarthritis pain: An exploratory study. [Molecular Pain](https://journals.sagepub.com/doi/abs/10.1177/17448069261422994) 22:17448069261422994.
+<!-- * 72 * -->
+
 #### 2025
 
 Ding H, Meng L, Zhang Y, Bryant AJ, Xing C, Esser KA, Chen L, Feng Y, Huo Z (2025) A Bayesian framework for genome-wide circadian rhythmicity biomarker detection. [Briefings in Bioinformatics](https://academic.oup.com/bib/article/26/5/bbaf552/8305232)
