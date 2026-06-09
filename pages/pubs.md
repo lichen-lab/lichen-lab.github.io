@@ -20,7 +20,13 @@ description: Li Chen's publications
 
 #### 2026
 
-Ma X, Jin W, Lu Q, Sun RC, **Chen L<sup>&sect;</sup>** (2026) Reference-informed spatial domain detection using weak supervision for spatial transcriptomics. [Genome Research](https://genome.cshlp.org/content/early/2026/06/02/gr281260125?implicit-login=true%26810)[![GraphScrDom Software](icons16/html-icon.png)](https://github.com/lichen-lab/GraphScrDom)
+Ma X, Allison D, Macedo JKA, Bolton KE, Clarke H, Young LEA, Bian J, Neltner JH, Vander Kooi C, Sun RC, **Gentry MS<sup>&sect;</sup>**, **Chen L<sup>&sect;</sup>** (2026) Machine learning-based prediction of clinical outcomes in gliomas using glycomics features. Computational and Structural Biotechnology Journal (Accepted)
+<!-- * 77 * -->
+
+Hawkinson TR, Liu Z, Ribas RA, Medina T, Nielsen RS, Clarke HA, Ma X, Mueller AC, Plasencia AF, Sheer AL, Simpson ST, Soto CM, Sudderth J, Cai F, Cantrell AR, Colpaert MG, Shedlock CJ, Wu L, Young LEA, Kooser DD, Chen L, Ryan AM, Quinones S, Son J, Azadi P, Deberardinis RJ, Prokop S, Allison D, Yang S, Chen H, Huang Y, He X, Alonge KM, Guo J, Guo Y, Bian J, Vander Kooi CW, Gentry MS, Sun RC (2026) Hyperglycosylation is a metabolic driver of Alzheimer's disease. [Nature Metabolism](https://www.nature.com/articles/s42255-026-01538-4)
+<!-- * 76 * -->
+
+Ma X, Jin W, Lu Q, **Sun RC<sup>&sect;</sup>**, **Chen L<sup>&sect;</sup>** (2026) Reference-informed spatial domain detection using weak supervision for spatial transcriptomics. [Genome Research](https://genome.cshlp.org/content/early/2026/06/02/gr281260125?implicit-login=true%26810)[![GraphScrDom Software](icons16/html-icon.png)](https://github.com/lichen-lab/GraphScrDom)
 <!-- * 75 * -->
 
 Ribas RA, Tang Q, Caffee SI, Shedlock CJ, Hawkinson TR, Dragich AK, Ziani BEC, Bucco Paolasso F, Black AP, Ma X, Kota HC, **Chen L**, Frolenkov GI, Allison DB, Gentry MS, Sun RC, Vander Kooi CW (2026) Mass spectrometry-based spatial imaging of the cochlea. [Journal of the American Society for Mass Spectrometry](https://pubs.acs.org/doi/10.1021/jasms.5c00436)
