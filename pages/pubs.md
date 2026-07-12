@@ -20,7 +20,7 @@ description: Li Chen's publications
 
 #### 2026
 
-Ma X, Allison D, Macedo JKA, Bolton KE, Clarke H, Young LEA, Bian J, Neltner JH, Vander Kooi C, Sun RC, **Gentry MS<sup>&sect;</sup>**, **Chen L<sup>&sect;</sup>** (2026) Machine learning-based prediction of clinical outcomes in gliomas using glycomics features. Computational and Structural Biotechnology Journal (Accepted)
+Ma X, Allison D, Macedo JKA, Bolton KE, Clarke H, Young LEA, Bian J, Neltner JH, Vander Kooi C, Sun RC, **Gentry MS<sup>&sect;</sup>**, **Chen L<sup>&sect;</sup>** (2026) Machine learning-based prediction of clinical outcomes in gliomas using glycomics features. [Computational and Structural Biotechnology Journal](https://spj.science.org/doi/10.34133/csbj.0153)
 <!-- * 77 * -->
 
 Hawkinson TR, Liu Z, Ribas RA, Medina T, Nielsen RS, Clarke HA, Ma X, Mueller AC, Plasencia AF, Sheer AL, Simpson ST, Soto CM, Sudderth J, Cai F, Cantrell AR, Colpaert MG, Shedlock CJ, Wu L, Young LEA, Kooser DD, Chen L, Ryan AM, Quinones S, Son J, Azadi P, Deberardinis RJ, Prokop S, Allison D, Yang S, Chen H, Huang Y, He X, Alonge KM, Guo J, Guo Y, Bian J, Vander Kooi CW, Gentry MS, Sun RC (2026) Hyperglycosylation is a metabolic driver of Alzheimer's disease. [Nature Metabolism](https://www.nature.com/articles/s42255-026-01538-4)
