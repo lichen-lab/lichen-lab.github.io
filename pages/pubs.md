@@ -22,10 +22,10 @@ description: Li Chen's publications
 Tamargo JA, Zhang Y, Abbas M, Chen L, Sparks LM, Mau T, Hepple RT, Esser KA, Cruz-Almeida Y (2026) Skeletal muscle transcriptomic profile of older adults with high-impact musculoskeletal pain in the study of muscle, mobility and aging (SOMMA).[Molecular Pain](https://pubmed.ncbi.nlm.nih.gov/42893430/)
 <!-- * 80 * -->
 
-Yu F, Jin W, Wang Y, Yu C, Liu Z, Gao S, Li Y, Jiang X, Li L, Stevens A, Carroll MP, Lamba J, **Chen L<sup>&sect;</sup>**, **Qian Z<sup>&sect;</sup>** (Year) RBM33 Induces Leukemogenic Chromatin Remodeling in AML through eRNA m6A Demethylation.[Molecular Cell](Accepted)
+Yu F, Jin W, Wang Y, Yu C, Liu Z, Gao S, Li Y, Jiang X, Li L, Stevens A, Carroll MP, Lamba J, **Chen L<sup>&sect;</sup>**, **Qian Z<sup>&sect;</sup>** (2026) RBM33 Induces Leukemogenic Chromatin Remodeling in AML through eRNA m6A Demethylation.[Molecular Cell](Accepted)
 <!-- * 79 * -->
 
-Zhao F, Roy A, Jin W, Peters LD, Brusko TM, Lu Q, Esser KA, Sun R,  **Chen L<sup>&sect;</sup>**  (Year) BayesCNet: Bayesian inference for cell type-specific regulatory networks from single-cell multiome data.[Nucleic Acids Research](Accepted)
+Zhao F, Roy A, Jin W, Peters LD, Brusko TM, Lu Q, Esser KA, Sun R,  **Chen L<sup>&sect;</sup>**  (2026) BayesCNet: Bayesian inference for cell type-specific regulatory networks from single-cell multiome data.[Nucleic Acids Research](Accepted)
 <!-- * 78 * -->
 
 Ma X, Allison D, Macedo JKA, Bolton KE, Clarke H, Young LEA, Bian J, Neltner JH, Vander Kooi C, Sun RC, **Gentry MS<sup>&sect;</sup>**, **Chen L<sup>&sect;</sup>** (2026) Machine learning-based prediction of clinical outcomes in gliomas using glycomics features. [Computational and Structural Biotechnology Journal](https://spj.science.org/doi/10.34133/csbj.0153)
