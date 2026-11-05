@@ -27,8 +27,6 @@ Zeyu Yuwen (2026-now), BS Nanjing University, PhD in Statistics, University of F
 
 ###  PhD students 
 
-Fengdi Zhao, PhD student in Biostatistics (2021-now), BS University of Washington, MS University of North Carolina
-
 Xin Ma, PhD student in Biostatistics (2022-now), BS Southwestern University of Finance and Economics， MS George Washington University (co-mentor Dr. Ramon Sun)
 
 Weijia Jin, PhD student in Biostatistics (2023-now), BS Peking University, MS University of Michigan
@@ -39,12 +37,19 @@ Wenxing Wang, PhD student in Biostatistics (2025-now), BS The Hong Kong Polytech
 
 Yuhan Wang, PhD student in Biostatistics (2025-now), BS Shanghai University of Finance and Economics, MS Columbia University (co-advisor Dr. Taki Benos)
 
+Suyang Yu, PhD student in Biostatistics (2026-now), BS University of Minnesota, MS University of Washington
+
+Tong Liu, PhD student in Biostatistics (2026-now), BS Central South University, MS University of Michigan
+
 <br/>
 
 
 ## Alumni
 
 ###  PhD
+
+<li> <strong> Fengdi Zhao</strong>, PhD student in Biostatistics 2026.
+<strong>First position</strong>: Postdoc at Fred Hutch. </li>
 
 <li> <strong>Ye Wang</strong>, PhD in Computer Science at Auburn University, 2021. 
 <strong>First position</strong>: Research Scientist at Biogen. </li>
