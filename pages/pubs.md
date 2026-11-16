@@ -19,6 +19,10 @@ description: Li Chen's publications
 **Key**: &sect; indicates (co-)corresponding/senior author; &dagger; indicates advisee; ^indicates (co-) first author	
 
 #### 2026
+Abbas M, Tamargo JA, Zhang Y, Cruz CJ, Gilliam J, Wohlgemuth S, Wu K, Staud R, **Chen L**, Goodin BR, Fillingim RB, Leeuwenburgh C, Cruz-Almeida Y (2026) Plasma levels and peripheral DNA methylation of IGF-1 and IGF-2 across knee osteoarthritis pain phenotypes in middle-aged and older adults.[Neurobiology of Pain](https://pubmed.ncbi.nlm.nih.gov/42761829/)
+<!-- * 81 * -->
+
+
 Tamargo JA, Zhang Y, Abbas M, Chen L, Sparks LM, Mau T, Hepple RT, Esser KA, Cruz-Almeida Y (2026) Skeletal muscle transcriptomic profile of older adults with high-impact musculoskeletal pain in the study of muscle, mobility and aging (SOMMA).[Molecular Pain](https://pubmed.ncbi.nlm.nih.gov/42893430/)
 <!-- * 80 * -->
 
