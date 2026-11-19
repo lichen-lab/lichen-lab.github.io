@@ -19,8 +19,10 @@ description: Li Chen's publications
 **Key**: &sect; indicates (co-)corresponding/senior author; &dagger; indicates advisee; ^indicates (co-) first author	
 
 #### 2026
+Rodríguez-Palma EJ, Gomez K, Calderon-Rivera A, Rodriguez-Sanchez M, Bhardwaj G, Nelson TS, Perez-Miller S, Fulton SA, Loya-López S, Fuller A, Caxaria S, Betancourt-Toscano I, Negeda Y, Ziani BEC, Ma X, **Chen L**, Grams KJ, Chambers NE, Tello JA, Allen HN, Schackmuth MK, Scott DD, Verma SK, da Silva FA, Waters AL, Dufeal NA, Grabus NK, Sharma RK, Rogers DA, Wang F, Axtman AD, Moehle MS, Patwardhan A, Sharma A, Oliviera AC, Russ HA, Frankowski KJ, Price TJ, Sikandar S, Fuller DD, Sun RC, Saloman JL, Tang C, Damaj MI, Khanna M, Khanna R. A peptidomimetic inhibitor of moesin alleviates chronic pain by suppressing NaV1.7 and NaV1.8 channels.[Science Translational Medicine](Accepted).
+<!-- * 83 * -->
 
-Ahn S, Porchia D, Chen L, van Gerwen M, Roussos P, Li Z (2026) A Statistical Framework for Co-Mediators of Zero-Inflated Single-Cell RNA-Seq Data.[Statistics in Medicine](Accepted).
+Ahn S, Porchia D, **Chen L**, van Gerwen M, Roussos P, Li Z (2026) A Statistical Framework for Co-Mediators of Zero-Inflated Single-Cell RNA-Seq Data.[Statistics in Medicine](Accepted).
 <!-- * 82 * -->
 
 Abbas M, Tamargo JA, Zhang Y, Cruz CJ, Gilliam J, Wohlgemuth S, Wu K, Staud R, **Chen L**, Goodin BR, Fillingim RB, Leeuwenburgh C, Cruz-Almeida Y (2026) Plasma levels and peripheral DNA methylation of IGF-1 and IGF-2 across knee osteoarthritis pain phenotypes in middle-aged and older adults.[Neurobiology of Pain](https://pubmed.ncbi.nlm.nih.gov/42761829/)
